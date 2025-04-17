@@ -1,0 +1,142 @@
+{
+    "1280230": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "no",
+        "Rule C": "no"
+    },
+    "1286616": {
+        "Definition 1": "no",
+        "Definition 2": "yes",
+        "Rule A": "no",
+        "Rule B": "no",
+        "Rule C": "yes"
+    },
+    "1291281": {
+        "Definition 1": "no",
+        "Definition 2": "yes",
+        "Rule A": "no",
+        "Rule B": "no",
+        "Rule C": "no"
+    },
+    "1293851": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "yes",
+        "Rule C": "yes"
+    },
+    "1295870": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "no",
+        "Rule C": "yes"
+    },
+    "1298934": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "no",
+        "Rule C": "yes"
+    },
+    "1300300": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "no",
+        "Rule C": "yes"
+    },
+    "1306672": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "yes",
+        "Rule C": "no"
+    },
+    "1308278": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "no",
+        "Rule C": "yes"
+    },
+    "1313641": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "yes",
+        "Rule C": "yes"
+    },
+    "1317793": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "no",
+        "Rule C": "no"
+    },
+    "1318788": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "no",
+        "Rule C": "yes"
+    },
+    "1330529": {
+        "Definition 1": "no",
+        "Definition 2": "no",
+        "Rule A": "no",
+        "Rule B": "no",
+        "Rule C": "no"
+    },
+    "14380": {
+        "Definition 1": "no",
+        "Definition 2": "no",
+        "Rule A": "no",
+        "Rule B": "no",
+        "Rule C": "no"
+    },
+    "14435": {
+        "Definition 1": "no",
+        "Definition 2": "no",
+        "Rule A": "no",
+        "Rule B": "no",
+        "Rule C": "no"
+    },
+    "1731": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "yes",
+        "Rule C": "yes"
+    },
+    "17455": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "yes",
+        "Rule C": "yes"
+    },
+    "2203": {
+        "Definition 1": "no",
+        "Definition 2": "no",
+        "Rule A": "no",
+        "Rule B": "no",
+        "Rule C": "no"
+    },
+    "3925": {
+        "Definition 1": "yes",
+        "Definition 2": "yes",
+        "Rule A": "yes",
+        "Rule B": "no",
+        "Rule C": "yes"
+    },
+    "45066": {
+        "Definition 1": "no",
+        "Definition 2": "yes",
+        "Rule A": "no",
+        "Rule B": "no",
+        "Rule C": "no"
+    }
+}

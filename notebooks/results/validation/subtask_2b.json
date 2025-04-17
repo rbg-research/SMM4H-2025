@@ -1,0 +1,452 @@
+{
+    "1280230": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "unable to sleep on either bipap\nwaking up to sternal rub, coughed up mod amts yellow secretions"
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "can't concentrate \ncomplains about sleep quality"
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    },
+    "1286616": {
+        "Definition 1": {
+            "label": "no",
+            "text": []
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "[Pt. A little confused/forgetful re: events of the past few days. MAE. Received 10 mg Valium @ 0300 for insomnia with some effect.]"
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Valium"
+            ]
+        }
+    },
+    "1291281": {
+        "Definition 1": {
+            "label": "no",
+            "text": []
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"very [Country **] and pleasant\""
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    },
+    "1293851": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "\"unable to sleep\""
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"I am just so tired...\""
+            ]
+        },
+        "Rule B": {
+            "label": "yes",
+            "text": [
+                "Zolpidem"
+            ]
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Trazodone, Trazadone"
+            ]
+        }
+    },
+    "1295870": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "unable to sleep overnight."
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "Pt with BRBPR X 1. Red Tag scan neg. Temp spike to 100.1po->bld cxs and antibiotic tx changed.  Pt is presently oriented to self only and lethargic. Neuro exam is otherwise unchanged. Pt placed on 2l NC @ time of BRBPR, and cont to sat 97-100%  with RR 16-26 and regular. Lungs generally clear, diminished @ bases. Pt with diffuse faint exp wheeze mid-day, and rec'd neb tx X 1 with good results. Unable to do ultrasound for vessels in Left arm D/T frozen shoulder.  Pt is presently oriented to self only and lethargic."
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Lorazepam"
+            ]
+        }
+    },
+    "1298934": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "\"unable to sleep\""
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"anxious d/tinability to sleep effectively because of inadequate length of pain releief\" \"pain relieved by 6:30a.m.\" \"pt remains easily arousable and oriented x3\""
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Hydroxyzine, Lorazepam"
+            ]
+        }
+    },
+    "1300300": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "\"Pt able to sleep intermit overnight, however, pt reported having several bad dreams and awoke very disoriented (calling the nurse the \"president's dgtr\").\""
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"Pt reports \"anxiety attacks\". Pt with increasing mobility, greater depth of resp inspirations as a result. Pt able to sleep intermit overnight, however, pt reported having several bad dreams and awoke very disoriented (calling the nurse the \"president's dgtr\").\""
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Clonazepam"
+            ]
+        }
+    },
+    "1306672": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "[unable to sleep]"
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "[ASKING APPROPRIATE QUESTIONS ABOUT PLAN OF CARE.  \"UNABLE TO SLEEP\"]"
+            ]
+        },
+        "Rule B": {
+            "label": "yes",
+            "text": [
+                "Zolpidem, Ambien"
+            ]
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    },
+    "1308278": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "\"I haven't slept all night.\""
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"unable to sleep most of night\""
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Diazepam"
+            ]
+        }
+    },
+    "1313641": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "\"has denied pain all shift\""
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"c/o poor sleep last 3 nocs\""
+            ]
+        },
+        "Rule B": {
+            "label": "yes",
+            "text": [
+                "Zolpidem"
+            ]
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Gabapentin, Lorazepam"
+            ]
+        }
+    },
+    "1317793": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "\"pt slept most of night.\""
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"pt is very tired and weak. she is uncomfortable but does no want any med stronger thatn tylenol.because she says it gives her nightmares. tylenol times 2 with fair effect.\""
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    },
+    "1318788": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "\"unable to sleep\""
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"Pt verbalizing unable to sleep most of noc\""
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Lorazepam, Ativan"
+            ]
+        }
+    },
+    "1330529": {
+        "Definition 1": {
+            "label": "no",
+            "text": []
+        },
+        "Definition 2": {
+            "label": "no",
+            "text": []
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    },
+    "14380": {
+        "Definition 1": {
+            "label": "no",
+            "text": []
+        },
+        "Definition 2": {
+            "label": "no",
+            "text": []
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    },
+    "14435": {
+        "Definition 1": {
+            "label": "no",
+            "text": []
+        },
+        "Definition 2": {
+            "label": "no",
+            "text": []
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    },
+    "1731": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "\"trouble sleeping\" \"lying awake for long periods before sleeping\" \"waking up multiple times throughout the night\" \"unable to sleep\" \"red eyes\""
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"fatigue\" \"feeling unwell\" \"trouble concentrating\" \"irritability\" \"emotional instability\" \"behavioral issues\" \"impulsivity\" \"hyperactivity\" \"discomfort\" \"daytime sleepiness\""
+            ]
+        },
+        "Rule B": {
+            "label": "yes",
+            "text": [
+                "Temazepam"
+            ]
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Clonazepam, Benadryl, Klonopin"
+            ]
+        }
+    },
+    "17455": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "[exact extracted phrases for nighttime sleep difficulty OR \"unknown\"]"
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "[exact extracted phrases for daytime impairment OR \"unknown\"]\n---\n\n### \u2705 Response:\nSleep Difficulty Phrases: \"He awoke on the day of admission, and was not able to move his legs at all.\" \"He had breakthrough pain in his lower back and exacerbation of this allodynia in his feet and legs.\" \"He was tearful with feelings of hopelessness, very upset about his condition.\""
+            ]
+        },
+        "Rule B": {
+            "label": "yes",
+            "text": [
+                "Zolpidem, Ambien"
+            ]
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Alprazolam, Gabapentin, Lorazepam, Quetiapine, Seroquel, Neurontin"
+            ]
+        }
+    },
+    "2203": {
+        "Definition 1": {
+            "label": "no",
+            "text": []
+        },
+        "Definition 2": {
+            "label": "no",
+            "text": []
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    },
+    "3925": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "\"nighttime sleep difficulty\" \n\"trouble sleeping\"\n\"difficulty sleeping\"\n\"insomnia\"\n\"unable to sleep\"\n\"nighttime sleep disturbance\"\n\"facial swelling\"\n\"increased right facial swelling\"\n\"facial erythema\"\n\"substernal chest pain\"\n\"chest pain\"\n\"dizziness\"\n\"fatigue\"\n\"low energy\"\n\"irritability\"\n\"mood swings\"\n\"difficulty concentrating\"\n\"trouble focusing\"\n\"headaches\"\n\"visual disturbances\"\n\"vision problems\"\n\"dizziness\"\n\"nausea\"\n\"constipation\""
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"daytime impairment\"\n\"daytime fatigue\"\n\"daytime sleepiness\"\n\"daytime difficulty concentrating\"\n\"daytime mood swings\"\n\"daytime irritability\"\n\"daytime headaches\"\n\"daytime nausea\"\n\"daytime dizziness\"\n\"daytime low energy\"\n\"daytime constipation\""
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Clonazepam, Diphenhydramine, Gabapentin, Lorazepam, Ativan, Clonazapam"
+            ]
+        }
+    },
+    "45066": {
+        "Definition 1": {
+            "label": "no",
+            "text": []
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"She had several more episodes of hematochezia while attempting to prep for colonoscopy for the following day.\" \"Her hematocrit dropped to 24 over the next several hours and the patient was sent for packed red blood cell scan given the active bleeding.\" \"She was transfused a total of 8 units of packed red blood cells during this admission.\" \"She was started on iron supplements on discharge.\""
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    }
+}

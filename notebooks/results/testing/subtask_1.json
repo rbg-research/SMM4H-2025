@@ -1,0 +1,6002 @@
+{
+    "20": {
+        "Insomnia": "yes"
+    },
+    "27": {
+        "Insomnia": "yes"
+    },
+    "28": {
+        "Insomnia": "yes"
+    },
+    "33": {
+        "Insomnia": "yes"
+    },
+    "51": {
+        "Insomnia": "yes"
+    },
+    "107": {
+        "Insomnia": "yes"
+    },
+    "156": {
+        "Insomnia": "yes"
+    },
+    "214": {
+        "Insomnia": "yes"
+    },
+    "244": {
+        "Insomnia": "yes"
+    },
+    "264": {
+        "Insomnia": "yes"
+    },
+    "300": {
+        "Insomnia": "yes"
+    },
+    "356": {
+        "Insomnia": "no"
+    },
+    "407": {
+        "Insomnia": "yes"
+    },
+    "675": {
+        "Insomnia": "yes"
+    },
+    "688": {
+        "Insomnia": "no"
+    },
+    "774": {
+        "Insomnia": "yes"
+    },
+    "832": {
+        "Insomnia": "yes"
+    },
+    "888": {
+        "Insomnia": "yes"
+    },
+    "960": {
+        "Insomnia": "yes"
+    },
+    "1040": {
+        "Insomnia": "yes"
+    },
+    "1146": {
+        "Insomnia": "yes"
+    },
+    "1174": {
+        "Insomnia": "yes"
+    },
+    "1201": {
+        "Insomnia": "yes"
+    },
+    "1240": {
+        "Insomnia": "yes"
+    },
+    "1299": {
+        "Insomnia": "yes"
+    },
+    "1304": {
+        "Insomnia": "yes"
+    },
+    "1424": {
+        "Insomnia": "yes"
+    },
+    "1578": {
+        "Insomnia": "yes"
+    },
+    "1656": {
+        "Insomnia": "yes"
+    },
+    "1708": {
+        "Insomnia": "no"
+    },
+    "1808": {
+        "Insomnia": "yes"
+    },
+    "1930": {
+        "Insomnia": "no"
+    },
+    "1971": {
+        "Insomnia": "yes"
+    },
+    "2116": {
+        "Insomnia": "yes"
+    },
+    "2141": {
+        "Insomnia": "yes"
+    },
+    "2225": {
+        "Insomnia": "yes"
+    },
+    "2230": {
+        "Insomnia": "yes"
+    },
+    "2253": {
+        "Insomnia": "yes"
+    },
+    "2284": {
+        "Insomnia": "yes"
+    },
+    "2443": {
+        "Insomnia": "yes"
+    },
+    "2457": {
+        "Insomnia": "yes"
+    },
+    "2486": {
+        "Insomnia": "yes"
+    },
+    "2531": {
+        "Insomnia": "yes"
+    },
+    "2552": {
+        "Insomnia": "yes"
+    },
+    "2553": {
+        "Insomnia": "yes"
+    },
+    "2581": {
+        "Insomnia": "yes"
+    },
+    "2604": {
+        "Insomnia": "yes"
+    },
+    "2782": {
+        "Insomnia": "no"
+    },
+    "2810": {
+        "Insomnia": "yes"
+    },
+    "2820": {
+        "Insomnia": "yes"
+    },
+    "2897": {
+        "Insomnia": "yes"
+    },
+    "2941": {
+        "Insomnia": "yes"
+    },
+    "2952": {
+        "Insomnia": "yes"
+    },
+    "2987": {
+        "Insomnia": "yes"
+    },
+    "3122": {
+        "Insomnia": "yes"
+    },
+    "3148": {
+        "Insomnia": "no"
+    },
+    "3196": {
+        "Insomnia": "no"
+    },
+    "3198": {
+        "Insomnia": "yes"
+    },
+    "3256": {
+        "Insomnia": "yes"
+    },
+    "3270": {
+        "Insomnia": "yes"
+    },
+    "3321": {
+        "Insomnia": "yes"
+    },
+    "3348": {
+        "Insomnia": "yes"
+    },
+    "3393": {
+        "Insomnia": "yes"
+    },
+    "3574": {
+        "Insomnia": "yes"
+    },
+    "3581": {
+        "Insomnia": "no"
+    },
+    "3668": {
+        "Insomnia": "yes"
+    },
+    "3951": {
+        "Insomnia": "yes"
+    },
+    "3979": {
+        "Insomnia": "yes"
+    },
+    "3991": {
+        "Insomnia": "yes"
+    },
+    "3999": {
+        "Insomnia": "yes"
+    },
+    "4098": {
+        "Insomnia": "no"
+    },
+    "4259": {
+        "Insomnia": "yes"
+    },
+    "4260": {
+        "Insomnia": "yes"
+    },
+    "4351": {
+        "Insomnia": "yes"
+    },
+    "4417": {
+        "Insomnia": "yes"
+    },
+    "4591": {
+        "Insomnia": "yes"
+    },
+    "4643": {
+        "Insomnia": "no"
+    },
+    "4736": {
+        "Insomnia": "yes"
+    },
+    "4834": {
+        "Insomnia": "yes"
+    },
+    "4894": {
+        "Insomnia": "yes"
+    },
+    "4986": {
+        "Insomnia": "yes"
+    },
+    "4987": {
+        "Insomnia": "yes"
+    },
+    "5044": {
+        "Insomnia": "no"
+    },
+    "5074": {
+        "Insomnia": "yes"
+    },
+    "5129": {
+        "Insomnia": "yes"
+    },
+    "5236": {
+        "Insomnia": "yes"
+    },
+    "5253": {
+        "Insomnia": "yes"
+    },
+    "5255": {
+        "Insomnia": "yes"
+    },
+    "5424": {
+        "Insomnia": "yes"
+    },
+    "5486": {
+        "Insomnia": "yes"
+    },
+    "5555": {
+        "Insomnia": "yes"
+    },
+    "5713": {
+        "Insomnia": "yes"
+    },
+    "5771": {
+        "Insomnia": "yes"
+    },
+    "5884": {
+        "Insomnia": "yes"
+    },
+    "5890": {
+        "Insomnia": "yes"
+    },
+    "5892": {
+        "Insomnia": "yes"
+    },
+    "6059": {
+        "Insomnia": "no"
+    },
+    "6118": {
+        "Insomnia": "no"
+    },
+    "6125": {
+        "Insomnia": "yes"
+    },
+    "6164": {
+        "Insomnia": "yes"
+    },
+    "6209": {
+        "Insomnia": "yes"
+    },
+    "6257": {
+        "Insomnia": "no"
+    },
+    "6297": {
+        "Insomnia": "yes"
+    },
+    "6341": {
+        "Insomnia": "yes"
+    },
+    "6469": {
+        "Insomnia": "yes"
+    },
+    "6485": {
+        "Insomnia": "yes"
+    },
+    "6522": {
+        "Insomnia": "yes"
+    },
+    "6538": {
+        "Insomnia": "no"
+    },
+    "6548": {
+        "Insomnia": "no"
+    },
+    "6656": {
+        "Insomnia": "no"
+    },
+    "6690": {
+        "Insomnia": "no"
+    },
+    "6715": {
+        "Insomnia": "yes"
+    },
+    "6832": {
+        "Insomnia": "yes"
+    },
+    "6916": {
+        "Insomnia": "yes"
+    },
+    "6994": {
+        "Insomnia": "yes"
+    },
+    "7056": {
+        "Insomnia": "yes"
+    },
+    "7064": {
+        "Insomnia": "no"
+    },
+    "7241": {
+        "Insomnia": "yes"
+    },
+    "7486": {
+        "Insomnia": "no"
+    },
+    "7489": {
+        "Insomnia": "yes"
+    },
+    "7593": {
+        "Insomnia": "yes"
+    },
+    "7638": {
+        "Insomnia": "yes"
+    },
+    "7783": {
+        "Insomnia": "yes"
+    },
+    "7823": {
+        "Insomnia": "yes"
+    },
+    "7842": {
+        "Insomnia": "no"
+    },
+    "8163": {
+        "Insomnia": "yes"
+    },
+    "8238": {
+        "Insomnia": "no"
+    },
+    "8358": {
+        "Insomnia": "no"
+    },
+    "8604": {
+        "Insomnia": "yes"
+    },
+    "8659": {
+        "Insomnia": "yes"
+    },
+    "8667": {
+        "Insomnia": "yes"
+    },
+    "8739": {
+        "Insomnia": "no"
+    },
+    "8789": {
+        "Insomnia": "yes"
+    },
+    "8820": {
+        "Insomnia": "yes"
+    },
+    "8891": {
+        "Insomnia": "yes"
+    },
+    "8944": {
+        "Insomnia": "yes"
+    },
+    "8945": {
+        "Insomnia": "yes"
+    },
+    "8956": {
+        "Insomnia": "yes"
+    },
+    "8969": {
+        "Insomnia": "yes"
+    },
+    "8995": {
+        "Insomnia": "no"
+    },
+    "9044": {
+        "Insomnia": "yes"
+    },
+    "9093": {
+        "Insomnia": "yes"
+    },
+    "9694": {
+        "Insomnia": "yes"
+    },
+    "9739": {
+        "Insomnia": "yes"
+    },
+    "9807": {
+        "Insomnia": "no"
+    },
+    "9823": {
+        "Insomnia": "no"
+    },
+    "9898": {
+        "Insomnia": "yes"
+    },
+    "9905": {
+        "Insomnia": "yes"
+    },
+    "9915": {
+        "Insomnia": "yes"
+    },
+    "9993": {
+        "Insomnia": "yes"
+    },
+    "10123": {
+        "Insomnia": "yes"
+    },
+    "10157": {
+        "Insomnia": "yes"
+    },
+    "10163": {
+        "Insomnia": "yes"
+    },
+    "10199": {
+        "Insomnia": "yes"
+    },
+    "10224": {
+        "Insomnia": "yes"
+    },
+    "10306": {
+        "Insomnia": "yes"
+    },
+    "10328": {
+        "Insomnia": "no"
+    },
+    "10338": {
+        "Insomnia": "no"
+    },
+    "10341": {
+        "Insomnia": "yes"
+    },
+    "10414": {
+        "Insomnia": "yes"
+    },
+    "10497": {
+        "Insomnia": "yes"
+    },
+    "10525": {
+        "Insomnia": "yes"
+    },
+    "10591": {
+        "Insomnia": "no"
+    },
+    "10759": {
+        "Insomnia": "yes"
+    },
+    "10796": {
+        "Insomnia": "yes"
+    },
+    "10881": {
+        "Insomnia": "no"
+    },
+    "10938": {
+        "Insomnia": "yes"
+    },
+    "11032": {
+        "Insomnia": "yes"
+    },
+    "11040": {
+        "Insomnia": "no"
+    },
+    "11139": {
+        "Insomnia": "yes"
+    },
+    "11191": {
+        "Insomnia": "yes"
+    },
+    "11192": {
+        "Insomnia": "no"
+    },
+    "11354": {
+        "Insomnia": "no"
+    },
+    "11357": {
+        "Insomnia": "no"
+    },
+    "11358": {
+        "Insomnia": "no"
+    },
+    "11381": {
+        "Insomnia": "yes"
+    },
+    "11452": {
+        "Insomnia": "no"
+    },
+    "11589": {
+        "Insomnia": "yes"
+    },
+    "11609": {
+        "Insomnia": "yes"
+    },
+    "11625": {
+        "Insomnia": "yes"
+    },
+    "11653": {
+        "Insomnia": "no"
+    },
+    "11883": {
+        "Insomnia": "yes"
+    },
+    "11885": {
+        "Insomnia": "yes"
+    },
+    "11892": {
+        "Insomnia": "yes"
+    },
+    "12034": {
+        "Insomnia": "yes"
+    },
+    "12051": {
+        "Insomnia": "yes"
+    },
+    "12147": {
+        "Insomnia": "yes"
+    },
+    "12167": {
+        "Insomnia": "yes"
+    },
+    "12232": {
+        "Insomnia": "yes"
+    },
+    "12238": {
+        "Insomnia": "no"
+    },
+    "12315": {
+        "Insomnia": "no"
+    },
+    "12350": {
+        "Insomnia": "yes"
+    },
+    "12358": {
+        "Insomnia": "no"
+    },
+    "12360": {
+        "Insomnia": "yes"
+    },
+    "12566": {
+        "Insomnia": "yes"
+    },
+    "12618": {
+        "Insomnia": "no"
+    },
+    "12663": {
+        "Insomnia": "yes"
+    },
+    "12664": {
+        "Insomnia": "yes"
+    },
+    "12930": {
+        "Insomnia": "yes"
+    },
+    "13027": {
+        "Insomnia": "yes"
+    },
+    "13037": {
+        "Insomnia": "no"
+    },
+    "13159": {
+        "Insomnia": "yes"
+    },
+    "13723": {
+        "Insomnia": "no"
+    },
+    "13973": {
+        "Insomnia": "yes"
+    },
+    "13992": {
+        "Insomnia": "yes"
+    },
+    "14116": {
+        "Insomnia": "yes"
+    },
+    "14222": {
+        "Insomnia": "yes"
+    },
+    "14259": {
+        "Insomnia": "yes"
+    },
+    "14305": {
+        "Insomnia": "yes"
+    },
+    "14311": {
+        "Insomnia": "yes"
+    },
+    "14376": {
+        "Insomnia": "yes"
+    },
+    "14496": {
+        "Insomnia": "yes"
+    },
+    "14554": {
+        "Insomnia": "yes"
+    },
+    "14568": {
+        "Insomnia": "no"
+    },
+    "14774": {
+        "Insomnia": "yes"
+    },
+    "14881": {
+        "Insomnia": "yes"
+    },
+    "14999": {
+        "Insomnia": "yes"
+    },
+    "15060": {
+        "Insomnia": "yes"
+    },
+    "15078": {
+        "Insomnia": "yes"
+    },
+    "15084": {
+        "Insomnia": "no"
+    },
+    "15086": {
+        "Insomnia": "yes"
+    },
+    "15091": {
+        "Insomnia": "yes"
+    },
+    "15143": {
+        "Insomnia": "no"
+    },
+    "15249": {
+        "Insomnia": "no"
+    },
+    "15399": {
+        "Insomnia": "yes"
+    },
+    "15459": {
+        "Insomnia": "yes"
+    },
+    "15590": {
+        "Insomnia": "yes"
+    },
+    "15672": {
+        "Insomnia": "yes"
+    },
+    "15756": {
+        "Insomnia": "yes"
+    },
+    "15760": {
+        "Insomnia": "yes"
+    },
+    "15889": {
+        "Insomnia": "no"
+    },
+    "15903": {
+        "Insomnia": "yes"
+    },
+    "16049": {
+        "Insomnia": "yes"
+    },
+    "16271": {
+        "Insomnia": "yes"
+    },
+    "16283": {
+        "Insomnia": "yes"
+    },
+    "16528": {
+        "Insomnia": "no"
+    },
+    "16626": {
+        "Insomnia": "yes"
+    },
+    "16771": {
+        "Insomnia": "yes"
+    },
+    "16861": {
+        "Insomnia": "no"
+    },
+    "17117": {
+        "Insomnia": "yes"
+    },
+    "17196": {
+        "Insomnia": "yes"
+    },
+    "17215": {
+        "Insomnia": "yes"
+    },
+    "17452": {
+        "Insomnia": "no"
+    },
+    "17462": {
+        "Insomnia": "no"
+    },
+    "17597": {
+        "Insomnia": "yes"
+    },
+    "17682": {
+        "Insomnia": "yes"
+    },
+    "17754": {
+        "Insomnia": "no"
+    },
+    "17825": {
+        "Insomnia": "yes"
+    },
+    "17859": {
+        "Insomnia": "yes"
+    },
+    "17866": {
+        "Insomnia": "yes"
+    },
+    "17884": {
+        "Insomnia": "yes"
+    },
+    "17912": {
+        "Insomnia": "yes"
+    },
+    "17939": {
+        "Insomnia": "no"
+    },
+    "17950": {
+        "Insomnia": "yes"
+    },
+    "17983": {
+        "Insomnia": "yes"
+    },
+    "18248": {
+        "Insomnia": "no"
+    },
+    "18291": {
+        "Insomnia": "yes"
+    },
+    "18355": {
+        "Insomnia": "no"
+    },
+    "18401": {
+        "Insomnia": "yes"
+    },
+    "18731": {
+        "Insomnia": "yes"
+    },
+    "19167": {
+        "Insomnia": "yes"
+    },
+    "19183": {
+        "Insomnia": "yes"
+    },
+    "19184": {
+        "Insomnia": "no"
+    },
+    "19363": {
+        "Insomnia": "yes"
+    },
+    "19903": {
+        "Insomnia": "yes"
+    },
+    "20111": {
+        "Insomnia": "no"
+    },
+    "20146": {
+        "Insomnia": "yes"
+    },
+    "20174": {
+        "Insomnia": "yes"
+    },
+    "20257": {
+        "Insomnia": "yes"
+    },
+    "20433": {
+        "Insomnia": "no"
+    },
+    "20784": {
+        "Insomnia": "yes"
+    },
+    "20873": {
+        "Insomnia": "yes"
+    },
+    "20919": {
+        "Insomnia": "yes"
+    },
+    "21048": {
+        "Insomnia": "yes"
+    },
+    "21072": {
+        "Insomnia": "no"
+    },
+    "21214": {
+        "Insomnia": "no"
+    },
+    "21342": {
+        "Insomnia": "no"
+    },
+    "21355": {
+        "Insomnia": "no"
+    },
+    "21737": {
+        "Insomnia": "no"
+    },
+    "21743": {
+        "Insomnia": "yes"
+    },
+    "21893": {
+        "Insomnia": "yes"
+    },
+    "21967": {
+        "Insomnia": "no"
+    },
+    "22179": {
+        "Insomnia": "no"
+    },
+    "22256": {
+        "Insomnia": "yes"
+    },
+    "22281": {
+        "Insomnia": "yes"
+    },
+    "22348": {
+        "Insomnia": "yes"
+    },
+    "22470": {
+        "Insomnia": "no"
+    },
+    "22498": {
+        "Insomnia": "yes"
+    },
+    "22533": {
+        "Insomnia": "yes"
+    },
+    "22555": {
+        "Insomnia": "yes"
+    },
+    "22589": {
+        "Insomnia": "yes"
+    },
+    "22752": {
+        "Insomnia": "no"
+    },
+    "22819": {
+        "Insomnia": "no"
+    },
+    "22883": {
+        "Insomnia": "yes"
+    },
+    "22904": {
+        "Insomnia": "yes"
+    },
+    "22942": {
+        "Insomnia": "yes"
+    },
+    "23059": {
+        "Insomnia": "yes"
+    },
+    "23279": {
+        "Insomnia": "yes"
+    },
+    "23365": {
+        "Insomnia": "yes"
+    },
+    "23388": {
+        "Insomnia": "yes"
+    },
+    "23579": {
+        "Insomnia": "yes"
+    },
+    "23604": {
+        "Insomnia": "yes"
+    },
+    "23813": {
+        "Insomnia": "yes"
+    },
+    "23875": {
+        "Insomnia": "yes"
+    },
+    "24007": {
+        "Insomnia": "yes"
+    },
+    "24108": {
+        "Insomnia": "yes"
+    },
+    "24127": {
+        "Insomnia": "yes"
+    },
+    "24156": {
+        "Insomnia": "yes"
+    },
+    "24284": {
+        "Insomnia": "yes"
+    },
+    "24292": {
+        "Insomnia": "yes"
+    },
+    "24301": {
+        "Insomnia": "yes"
+    },
+    "24304": {
+        "Insomnia": "yes"
+    },
+    "24312": {
+        "Insomnia": "yes"
+    },
+    "24327": {
+        "Insomnia": "yes"
+    },
+    "24521": {
+        "Insomnia": "yes"
+    },
+    "24679": {
+        "Insomnia": "no"
+    },
+    "24778": {
+        "Insomnia": "yes"
+    },
+    "24795": {
+        "Insomnia": "yes"
+    },
+    "24800": {
+        "Insomnia": "yes"
+    },
+    "24891": {
+        "Insomnia": "yes"
+    },
+    "24894": {
+        "Insomnia": "no"
+    },
+    "24895": {
+        "Insomnia": "yes"
+    },
+    "24940": {
+        "Insomnia": "yes"
+    },
+    "25023": {
+        "Insomnia": "yes"
+    },
+    "25046": {
+        "Insomnia": "no"
+    },
+    "25107": {
+        "Insomnia": "yes"
+    },
+    "25167": {
+        "Insomnia": "yes"
+    },
+    "25220": {
+        "Insomnia": "yes"
+    },
+    "25232": {
+        "Insomnia": "yes"
+    },
+    "25300": {
+        "Insomnia": "yes"
+    },
+    "25374": {
+        "Insomnia": "yes"
+    },
+    "25409": {
+        "Insomnia": "yes"
+    },
+    "25431": {
+        "Insomnia": "yes"
+    },
+    "25463": {
+        "Insomnia": "yes"
+    },
+    "25567": {
+        "Insomnia": "yes"
+    },
+    "25660": {
+        "Insomnia": "yes"
+    },
+    "25686": {
+        "Insomnia": "yes"
+    },
+    "25734": {
+        "Insomnia": "yes"
+    },
+    "25808": {
+        "Insomnia": "yes"
+    },
+    "25994": {
+        "Insomnia": "yes"
+    },
+    "26080": {
+        "Insomnia": "yes"
+    },
+    "26095": {
+        "Insomnia": "yes"
+    },
+    "26317": {
+        "Insomnia": "yes"
+    },
+    "26446": {
+        "Insomnia": "yes"
+    },
+    "26506": {
+        "Insomnia": "yes"
+    },
+    "26613": {
+        "Insomnia": "yes"
+    },
+    "26932": {
+        "Insomnia": "no"
+    },
+    "27119": {
+        "Insomnia": "yes"
+    },
+    "27204": {
+        "Insomnia": "yes"
+    },
+    "27255": {
+        "Insomnia": "yes"
+    },
+    "27340": {
+        "Insomnia": "yes"
+    },
+    "27347": {
+        "Insomnia": "yes"
+    },
+    "27560": {
+        "Insomnia": "no"
+    },
+    "27617": {
+        "Insomnia": "yes"
+    },
+    "27707": {
+        "Insomnia": "no"
+    },
+    "27719": {
+        "Insomnia": "yes"
+    },
+    "27774": {
+        "Insomnia": "yes"
+    },
+    "27777": {
+        "Insomnia": "yes"
+    },
+    "27799": {
+        "Insomnia": "no"
+    },
+    "27813": {
+        "Insomnia": "yes"
+    },
+    "27907": {
+        "Insomnia": "no"
+    },
+    "27961": {
+        "Insomnia": "yes"
+    },
+    "27977": {
+        "Insomnia": "yes"
+    },
+    "27983": {
+        "Insomnia": "yes"
+    },
+    "28043": {
+        "Insomnia": "yes"
+    },
+    "28070": {
+        "Insomnia": "yes"
+    },
+    "28084": {
+        "Insomnia": "yes"
+    },
+    "28153": {
+        "Insomnia": "yes"
+    },
+    "28287": {
+        "Insomnia": "yes"
+    },
+    "28368": {
+        "Insomnia": "no"
+    },
+    "28430": {
+        "Insomnia": "yes"
+    },
+    "28729": {
+        "Insomnia": "no"
+    },
+    "28819": {
+        "Insomnia": "yes"
+    },
+    "28820": {
+        "Insomnia": "yes"
+    },
+    "28875": {
+        "Insomnia": "yes"
+    },
+    "28913": {
+        "Insomnia": "no"
+    },
+    "28936": {
+        "Insomnia": "yes"
+    },
+    "29018": {
+        "Insomnia": "yes"
+    },
+    "29065": {
+        "Insomnia": "no"
+    },
+    "29109": {
+        "Insomnia": "yes"
+    },
+    "29221": {
+        "Insomnia": "yes"
+    },
+    "29313": {
+        "Insomnia": "yes"
+    },
+    "29344": {
+        "Insomnia": "yes"
+    },
+    "29359": {
+        "Insomnia": "yes"
+    },
+    "29405": {
+        "Insomnia": "yes"
+    },
+    "29547": {
+        "Insomnia": "yes"
+    },
+    "29605": {
+        "Insomnia": "yes"
+    },
+    "29617": {
+        "Insomnia": "yes"
+    },
+    "29729": {
+        "Insomnia": "yes"
+    },
+    "29827": {
+        "Insomnia": "no"
+    },
+    "30027": {
+        "Insomnia": "yes"
+    },
+    "30178": {
+        "Insomnia": "yes"
+    },
+    "30207": {
+        "Insomnia": "no"
+    },
+    "30219": {
+        "Insomnia": "yes"
+    },
+    "30291": {
+        "Insomnia": "yes"
+    },
+    "30292": {
+        "Insomnia": "yes"
+    },
+    "30353": {
+        "Insomnia": "yes"
+    },
+    "30379": {
+        "Insomnia": "yes"
+    },
+    "30512": {
+        "Insomnia": "yes"
+    },
+    "30579": {
+        "Insomnia": "no"
+    },
+    "30580": {
+        "Insomnia": "yes"
+    },
+    "30604": {
+        "Insomnia": "yes"
+    },
+    "30608": {
+        "Insomnia": "yes"
+    },
+    "30684": {
+        "Insomnia": "yes"
+    },
+    "30762": {
+        "Insomnia": "yes"
+    },
+    "30798": {
+        "Insomnia": "yes"
+    },
+    "30810": {
+        "Insomnia": "yes"
+    },
+    "30868": {
+        "Insomnia": "yes"
+    },
+    "30908": {
+        "Insomnia": "no"
+    },
+    "30928": {
+        "Insomnia": "yes"
+    },
+    "31003": {
+        "Insomnia": "no"
+    },
+    "31081": {
+        "Insomnia": "yes"
+    },
+    "31087": {
+        "Insomnia": "yes"
+    },
+    "31192": {
+        "Insomnia": "yes"
+    },
+    "31209": {
+        "Insomnia": "yes"
+    },
+    "31440": {
+        "Insomnia": "no"
+    },
+    "31482": {
+        "Insomnia": "yes"
+    },
+    "31589": {
+        "Insomnia": "yes"
+    },
+    "31623": {
+        "Insomnia": "yes"
+    },
+    "31668": {
+        "Insomnia": "no"
+    },
+    "31771": {
+        "Insomnia": "no"
+    },
+    "31802": {
+        "Insomnia": "yes"
+    },
+    "31810": {
+        "Insomnia": "yes"
+    },
+    "31819": {
+        "Insomnia": "yes"
+    },
+    "32153": {
+        "Insomnia": "no"
+    },
+    "32218": {
+        "Insomnia": "yes"
+    },
+    "32272": {
+        "Insomnia": "yes"
+    },
+    "32273": {
+        "Insomnia": "no"
+    },
+    "32541": {
+        "Insomnia": "yes"
+    },
+    "32628": {
+        "Insomnia": "yes"
+    },
+    "32653": {
+        "Insomnia": "yes"
+    },
+    "32673": {
+        "Insomnia": "no"
+    },
+    "32883": {
+        "Insomnia": "no"
+    },
+    "33048": {
+        "Insomnia": "yes"
+    },
+    "33067": {
+        "Insomnia": "yes"
+    },
+    "33118": {
+        "Insomnia": "yes"
+    },
+    "33172": {
+        "Insomnia": "yes"
+    },
+    "33191": {
+        "Insomnia": "yes"
+    },
+    "33251": {
+        "Insomnia": "yes"
+    },
+    "33252": {
+        "Insomnia": "yes"
+    },
+    "33306": {
+        "Insomnia": "no"
+    },
+    "33341": {
+        "Insomnia": "yes"
+    },
+    "33419": {
+        "Insomnia": "yes"
+    },
+    "33538": {
+        "Insomnia": "yes"
+    },
+    "33594": {
+        "Insomnia": "yes"
+    },
+    "33632": {
+        "Insomnia": "yes"
+    },
+    "33643": {
+        "Insomnia": "no"
+    },
+    "33748": {
+        "Insomnia": "no"
+    },
+    "33787": {
+        "Insomnia": "yes"
+    },
+    "33824": {
+        "Insomnia": "yes"
+    },
+    "33829": {
+        "Insomnia": "yes"
+    },
+    "33831": {
+        "Insomnia": "yes"
+    },
+    "33884": {
+        "Insomnia": "no"
+    },
+    "33916": {
+        "Insomnia": "yes"
+    },
+    "34064": {
+        "Insomnia": "yes"
+    },
+    "34093": {
+        "Insomnia": "yes"
+    },
+    "34147": {
+        "Insomnia": "no"
+    },
+    "34217": {
+        "Insomnia": "no"
+    },
+    "34240": {
+        "Insomnia": "yes"
+    },
+    "34297": {
+        "Insomnia": "yes"
+    },
+    "34466": {
+        "Insomnia": "yes"
+    },
+    "34484": {
+        "Insomnia": "yes"
+    },
+    "34571": {
+        "Insomnia": "no"
+    },
+    "34573": {
+        "Insomnia": "no"
+    },
+    "34631": {
+        "Insomnia": "yes"
+    },
+    "34643": {
+        "Insomnia": "yes"
+    },
+    "34724": {
+        "Insomnia": "no"
+    },
+    "34746": {
+        "Insomnia": "yes"
+    },
+    "34748": {
+        "Insomnia": "yes"
+    },
+    "34762": {
+        "Insomnia": "yes"
+    },
+    "34801": {
+        "Insomnia": "yes"
+    },
+    "34810": {
+        "Insomnia": "yes"
+    },
+    "34992": {
+        "Insomnia": "yes"
+    },
+    "34995": {
+        "Insomnia": "yes"
+    },
+    "35052": {
+        "Insomnia": "yes"
+    },
+    "35139": {
+        "Insomnia": "yes"
+    },
+    "35187": {
+        "Insomnia": "yes"
+    },
+    "35253": {
+        "Insomnia": "yes"
+    },
+    "35292": {
+        "Insomnia": "yes"
+    },
+    "35369": {
+        "Insomnia": "yes"
+    },
+    "35418": {
+        "Insomnia": "yes"
+    },
+    "35558": {
+        "Insomnia": "no"
+    },
+    "35560": {
+        "Insomnia": "yes"
+    },
+    "35587": {
+        "Insomnia": "yes"
+    },
+    "35593": {
+        "Insomnia": "yes"
+    },
+    "35731": {
+        "Insomnia": "yes"
+    },
+    "35791": {
+        "Insomnia": "no"
+    },
+    "35884": {
+        "Insomnia": "yes"
+    },
+    "36017": {
+        "Insomnia": "yes"
+    },
+    "36108": {
+        "Insomnia": "yes"
+    },
+    "36130": {
+        "Insomnia": "yes"
+    },
+    "36246": {
+        "Insomnia": "yes"
+    },
+    "36257": {
+        "Insomnia": "yes"
+    },
+    "36366": {
+        "Insomnia": "yes"
+    },
+    "36416": {
+        "Insomnia": "yes"
+    },
+    "36539": {
+        "Insomnia": "yes"
+    },
+    "36576": {
+        "Insomnia": "yes"
+    },
+    "36613": {
+        "Insomnia": "yes"
+    },
+    "36650": {
+        "Insomnia": "yes"
+    },
+    "36755": {
+        "Insomnia": "yes"
+    },
+    "36765": {
+        "Insomnia": "yes"
+    },
+    "36999": {
+        "Insomnia": "yes"
+    },
+    "37069": {
+        "Insomnia": "yes"
+    },
+    "37101": {
+        "Insomnia": "no"
+    },
+    "37229": {
+        "Insomnia": "yes"
+    },
+    "37300": {
+        "Insomnia": "yes"
+    },
+    "37329": {
+        "Insomnia": "yes"
+    },
+    "37348": {
+        "Insomnia": "yes"
+    },
+    "37472": {
+        "Insomnia": "no"
+    },
+    "37508": {
+        "Insomnia": "yes"
+    },
+    "37544": {
+        "Insomnia": "yes"
+    },
+    "37601": {
+        "Insomnia": "yes"
+    },
+    "37615": {
+        "Insomnia": "yes"
+    },
+    "37617": {
+        "Insomnia": "yes"
+    },
+    "37625": {
+        "Insomnia": "yes"
+    },
+    "37649": {
+        "Insomnia": "yes"
+    },
+    "37759": {
+        "Insomnia": "yes"
+    },
+    "37765": {
+        "Insomnia": "yes"
+    },
+    "37807": {
+        "Insomnia": "no"
+    },
+    "37814": {
+        "Insomnia": "yes"
+    },
+    "37854": {
+        "Insomnia": "yes"
+    },
+    "37862": {
+        "Insomnia": "no"
+    },
+    "37963": {
+        "Insomnia": "yes"
+    },
+    "37970": {
+        "Insomnia": "yes"
+    },
+    "38047": {
+        "Insomnia": "yes"
+    },
+    "38074": {
+        "Insomnia": "yes"
+    },
+    "38119": {
+        "Insomnia": "yes"
+    },
+    "38216": {
+        "Insomnia": "yes"
+    },
+    "38356": {
+        "Insomnia": "yes"
+    },
+    "38421": {
+        "Insomnia": "no"
+    },
+    "38437": {
+        "Insomnia": "yes"
+    },
+    "38485": {
+        "Insomnia": "yes"
+    },
+    "38505": {
+        "Insomnia": "yes"
+    },
+    "38699": {
+        "Insomnia": "yes"
+    },
+    "38828": {
+        "Insomnia": "yes"
+    },
+    "38833": {
+        "Insomnia": "yes"
+    },
+    "38894": {
+        "Insomnia": "yes"
+    },
+    "38963": {
+        "Insomnia": "yes"
+    },
+    "38991": {
+        "Insomnia": "yes"
+    },
+    "39099": {
+        "Insomnia": "yes"
+    },
+    "39127": {
+        "Insomnia": "yes"
+    },
+    "39283": {
+        "Insomnia": "no"
+    },
+    "39300": {
+        "Insomnia": "no"
+    },
+    "39391": {
+        "Insomnia": "yes"
+    },
+    "39504": {
+        "Insomnia": "no"
+    },
+    "39679": {
+        "Insomnia": "yes"
+    },
+    "39709": {
+        "Insomnia": "yes"
+    },
+    "39797": {
+        "Insomnia": "yes"
+    },
+    "39979": {
+        "Insomnia": "yes"
+    },
+    "40088": {
+        "Insomnia": "yes"
+    },
+    "40288": {
+        "Insomnia": "yes"
+    },
+    "40305": {
+        "Insomnia": "yes"
+    },
+    "40312": {
+        "Insomnia": "yes"
+    },
+    "40342": {
+        "Insomnia": "no"
+    },
+    "40389": {
+        "Insomnia": "no"
+    },
+    "40497": {
+        "Insomnia": "yes"
+    },
+    "40835": {
+        "Insomnia": "yes"
+    },
+    "40845": {
+        "Insomnia": "yes"
+    },
+    "41050": {
+        "Insomnia": "yes"
+    },
+    "41057": {
+        "Insomnia": "yes"
+    },
+    "41068": {
+        "Insomnia": "yes"
+    },
+    "41075": {
+        "Insomnia": "yes"
+    },
+    "41108": {
+        "Insomnia": "yes"
+    },
+    "41110": {
+        "Insomnia": "yes"
+    },
+    "41390": {
+        "Insomnia": "no"
+    },
+    "41454": {
+        "Insomnia": "yes"
+    },
+    "41508": {
+        "Insomnia": "no"
+    },
+    "41590": {
+        "Insomnia": "yes"
+    },
+    "41641": {
+        "Insomnia": "yes"
+    },
+    "41917": {
+        "Insomnia": "yes"
+    },
+    "41996": {
+        "Insomnia": "yes"
+    },
+    "42102": {
+        "Insomnia": "yes"
+    },
+    "42111": {
+        "Insomnia": "yes"
+    },
+    "42275": {
+        "Insomnia": "yes"
+    },
+    "42359": {
+        "Insomnia": "no"
+    },
+    "42509": {
+        "Insomnia": "yes"
+    },
+    "42937": {
+        "Insomnia": "yes"
+    },
+    "42964": {
+        "Insomnia": "no"
+    },
+    "43032": {
+        "Insomnia": "yes"
+    },
+    "43033": {
+        "Insomnia": "yes"
+    },
+    "43190": {
+        "Insomnia": "yes"
+    },
+    "43296": {
+        "Insomnia": "yes"
+    },
+    "43344": {
+        "Insomnia": "no"
+    },
+    "43438": {
+        "Insomnia": "no"
+    },
+    "43452": {
+        "Insomnia": "yes"
+    },
+    "43581": {
+        "Insomnia": "yes"
+    },
+    "43672": {
+        "Insomnia": "yes"
+    },
+    "43690": {
+        "Insomnia": "yes"
+    },
+    "43691": {
+        "Insomnia": "yes"
+    },
+    "43708": {
+        "Insomnia": "yes"
+    },
+    "43734": {
+        "Insomnia": "yes"
+    },
+    "43743": {
+        "Insomnia": "yes"
+    },
+    "43758": {
+        "Insomnia": "yes"
+    },
+    "43926": {
+        "Insomnia": "yes"
+    },
+    "43941": {
+        "Insomnia": "yes"
+    },
+    "43945": {
+        "Insomnia": "no"
+    },
+    "44020": {
+        "Insomnia": "yes"
+    },
+    "44041": {
+        "Insomnia": "yes"
+    },
+    "44119": {
+        "Insomnia": "yes"
+    },
+    "44151": {
+        "Insomnia": "no"
+    },
+    "44195": {
+        "Insomnia": "yes"
+    },
+    "44235": {
+        "Insomnia": "yes"
+    },
+    "44387": {
+        "Insomnia": "yes"
+    },
+    "44397": {
+        "Insomnia": "yes"
+    },
+    "44418": {
+        "Insomnia": "no"
+    },
+    "44460": {
+        "Insomnia": "yes"
+    },
+    "44482": {
+        "Insomnia": "yes"
+    },
+    "44490": {
+        "Insomnia": "yes"
+    },
+    "44595": {
+        "Insomnia": "no"
+    },
+    "44634": {
+        "Insomnia": "no"
+    },
+    "44752": {
+        "Insomnia": "yes"
+    },
+    "44971": {
+        "Insomnia": "yes"
+    },
+    "45101": {
+        "Insomnia": "yes"
+    },
+    "45315": {
+        "Insomnia": "yes"
+    },
+    "45319": {
+        "Insomnia": "no"
+    },
+    "45343": {
+        "Insomnia": "yes"
+    },
+    "45467": {
+        "Insomnia": "yes"
+    },
+    "45487": {
+        "Insomnia": "no"
+    },
+    "45776": {
+        "Insomnia": "yes"
+    },
+    "45786": {
+        "Insomnia": "no"
+    },
+    "45789": {
+        "Insomnia": "yes"
+    },
+    "45894": {
+        "Insomnia": "yes"
+    },
+    "45995": {
+        "Insomnia": "yes"
+    },
+    "46273": {
+        "Insomnia": "yes"
+    },
+    "46478": {
+        "Insomnia": "yes"
+    },
+    "46528": {
+        "Insomnia": "yes"
+    },
+    "46542": {
+        "Insomnia": "yes"
+    },
+    "46597": {
+        "Insomnia": "yes"
+    },
+    "46622": {
+        "Insomnia": "no"
+    },
+    "46671": {
+        "Insomnia": "yes"
+    },
+    "46705": {
+        "Insomnia": "yes"
+    },
+    "46759": {
+        "Insomnia": "yes"
+    },
+    "46778": {
+        "Insomnia": "yes"
+    },
+    "46804": {
+        "Insomnia": "yes"
+    },
+    "46875": {
+        "Insomnia": "yes"
+    },
+    "46916": {
+        "Insomnia": "yes"
+    },
+    "47002": {
+        "Insomnia": "yes"
+    },
+    "47056": {
+        "Insomnia": "yes"
+    },
+    "47126": {
+        "Insomnia": "yes"
+    },
+    "47143": {
+        "Insomnia": "yes"
+    },
+    "47156": {
+        "Insomnia": "yes"
+    },
+    "47304": {
+        "Insomnia": "yes"
+    },
+    "47321": {
+        "Insomnia": "yes"
+    },
+    "47334": {
+        "Insomnia": "yes"
+    },
+    "47426": {
+        "Insomnia": "no"
+    },
+    "47443": {
+        "Insomnia": "yes"
+    },
+    "47559": {
+        "Insomnia": "yes"
+    },
+    "47679": {
+        "Insomnia": "yes"
+    },
+    "47746": {
+        "Insomnia": "yes"
+    },
+    "47827": {
+        "Insomnia": "no"
+    },
+    "47919": {
+        "Insomnia": "yes"
+    },
+    "48023": {
+        "Insomnia": "yes"
+    },
+    "48072": {
+        "Insomnia": "no"
+    },
+    "48265": {
+        "Insomnia": "yes"
+    },
+    "48298": {
+        "Insomnia": "yes"
+    },
+    "48365": {
+        "Insomnia": "yes"
+    },
+    "48432": {
+        "Insomnia": "yes"
+    },
+    "48464": {
+        "Insomnia": "yes"
+    },
+    "48538": {
+        "Insomnia": "yes"
+    },
+    "48550": {
+        "Insomnia": "yes"
+    },
+    "48782": {
+        "Insomnia": "no"
+    },
+    "48809": {
+        "Insomnia": "yes"
+    },
+    "48908": {
+        "Insomnia": "yes"
+    },
+    "48992": {
+        "Insomnia": "yes"
+    },
+    "49031": {
+        "Insomnia": "yes"
+    },
+    "49033": {
+        "Insomnia": "no"
+    },
+    "49103": {
+        "Insomnia": "yes"
+    },
+    "49324": {
+        "Insomnia": "no"
+    },
+    "49369": {
+        "Insomnia": "yes"
+    },
+    "49411": {
+        "Insomnia": "yes"
+    },
+    "49440": {
+        "Insomnia": "yes"
+    },
+    "49450": {
+        "Insomnia": "no"
+    },
+    "49470": {
+        "Insomnia": "yes"
+    },
+    "49471": {
+        "Insomnia": "yes"
+    },
+    "49581": {
+        "Insomnia": "no"
+    },
+    "49613": {
+        "Insomnia": "yes"
+    },
+    "49615": {
+        "Insomnia": "yes"
+    },
+    "49633": {
+        "Insomnia": "no"
+    },
+    "49735": {
+        "Insomnia": "yes"
+    },
+    "49736": {
+        "Insomnia": "yes"
+    },
+    "49826": {
+        "Insomnia": "yes"
+    },
+    "49875": {
+        "Insomnia": "yes"
+    },
+    "49914": {
+        "Insomnia": "yes"
+    },
+    "49975": {
+        "Insomnia": "no"
+    },
+    "50064": {
+        "Insomnia": "yes"
+    },
+    "50128": {
+        "Insomnia": "no"
+    },
+    "50169": {
+        "Insomnia": "yes"
+    },
+    "50187": {
+        "Insomnia": "yes"
+    },
+    "50212": {
+        "Insomnia": "no"
+    },
+    "50225": {
+        "Insomnia": "no"
+    },
+    "50334": {
+        "Insomnia": "yes"
+    },
+    "50338": {
+        "Insomnia": "yes"
+    },
+    "50355": {
+        "Insomnia": "yes"
+    },
+    "50361": {
+        "Insomnia": "yes"
+    },
+    "50429": {
+        "Insomnia": "no"
+    },
+    "50452": {
+        "Insomnia": "yes"
+    },
+    "50461": {
+        "Insomnia": "no"
+    },
+    "50564": {
+        "Insomnia": "yes"
+    },
+    "50670": {
+        "Insomnia": "yes"
+    },
+    "50731": {
+        "Insomnia": "yes"
+    },
+    "50765": {
+        "Insomnia": "yes"
+    },
+    "50855": {
+        "Insomnia": "no"
+    },
+    "50861": {
+        "Insomnia": "yes"
+    },
+    "50900": {
+        "Insomnia": "no"
+    },
+    "51089": {
+        "Insomnia": "yes"
+    },
+    "51182": {
+        "Insomnia": "yes"
+    },
+    "51188": {
+        "Insomnia": "yes"
+    },
+    "51210": {
+        "Insomnia": "yes"
+    },
+    "51285": {
+        "Insomnia": "yes"
+    },
+    "51286": {
+        "Insomnia": "yes"
+    },
+    "51303": {
+        "Insomnia": "yes"
+    },
+    "51308": {
+        "Insomnia": "no"
+    },
+    "51352": {
+        "Insomnia": "yes"
+    },
+    "51364": {
+        "Insomnia": "yes"
+    },
+    "51392": {
+        "Insomnia": "yes"
+    },
+    "51444": {
+        "Insomnia": "no"
+    },
+    "51484": {
+        "Insomnia": "no"
+    },
+    "51488": {
+        "Insomnia": "yes"
+    },
+    "51641": {
+        "Insomnia": "no"
+    },
+    "51658": {
+        "Insomnia": "yes"
+    },
+    "51790": {
+        "Insomnia": "yes"
+    },
+    "51974": {
+        "Insomnia": "yes"
+    },
+    "52114": {
+        "Insomnia": "yes"
+    },
+    "52125": {
+        "Insomnia": "yes"
+    },
+    "52180": {
+        "Insomnia": "yes"
+    },
+    "52292": {
+        "Insomnia": "yes"
+    },
+    "52305": {
+        "Insomnia": "yes"
+    },
+    "52312": {
+        "Insomnia": "yes"
+    },
+    "52315": {
+        "Insomnia": "yes"
+    },
+    "52394": {
+        "Insomnia": "yes"
+    },
+    "52429": {
+        "Insomnia": "yes"
+    },
+    "52491": {
+        "Insomnia": "no"
+    },
+    "52494": {
+        "Insomnia": "yes"
+    },
+    "52507": {
+        "Insomnia": "yes"
+    },
+    "52565": {
+        "Insomnia": "no"
+    },
+    "52643": {
+        "Insomnia": "yes"
+    },
+    "52648": {
+        "Insomnia": "yes"
+    },
+    "52744": {
+        "Insomnia": "yes"
+    },
+    "52900": {
+        "Insomnia": "yes"
+    },
+    "52967": {
+        "Insomnia": "yes"
+    },
+    "52978": {
+        "Insomnia": "yes"
+    },
+    "52991": {
+        "Insomnia": "no"
+    },
+    "53007": {
+        "Insomnia": "no"
+    },
+    "53127": {
+        "Insomnia": "yes"
+    },
+    "53285": {
+        "Insomnia": "no"
+    },
+    "53365": {
+        "Insomnia": "yes"
+    },
+    "53420": {
+        "Insomnia": "no"
+    },
+    "53460": {
+        "Insomnia": "no"
+    },
+    "53461": {
+        "Insomnia": "no"
+    },
+    "53493": {
+        "Insomnia": "yes"
+    },
+    "53531": {
+        "Insomnia": "yes"
+    },
+    "53590": {
+        "Insomnia": "yes"
+    },
+    "53799": {
+        "Insomnia": "yes"
+    },
+    "53825": {
+        "Insomnia": "yes"
+    },
+    "54256": {
+        "Insomnia": "yes"
+    },
+    "54315": {
+        "Insomnia": "yes"
+    },
+    "54336": {
+        "Insomnia": "no"
+    },
+    "54348": {
+        "Insomnia": "no"
+    },
+    "54432": {
+        "Insomnia": "yes"
+    },
+    "54447": {
+        "Insomnia": "yes"
+    },
+    "54476": {
+        "Insomnia": "no"
+    },
+    "54493": {
+        "Insomnia": "yes"
+    },
+    "54556": {
+        "Insomnia": "no"
+    },
+    "54614": {
+        "Insomnia": "yes"
+    },
+    "54800": {
+        "Insomnia": "no"
+    },
+    "54819": {
+        "Insomnia": "yes"
+    },
+    "54855": {
+        "Insomnia": "no"
+    },
+    "54890": {
+        "Insomnia": "yes"
+    },
+    "54950": {
+        "Insomnia": "yes"
+    },
+    "55023": {
+        "Insomnia": "yes"
+    },
+    "55043": {
+        "Insomnia": "yes"
+    },
+    "55044": {
+        "Insomnia": "yes"
+    },
+    "55186": {
+        "Insomnia": "yes"
+    },
+    "55309": {
+        "Insomnia": "yes"
+    },
+    "55334": {
+        "Insomnia": "yes"
+    },
+    "55571": {
+        "Insomnia": "yes"
+    },
+    "55867": {
+        "Insomnia": "yes"
+    },
+    "56117": {
+        "Insomnia": "yes"
+    },
+    "56196": {
+        "Insomnia": "no"
+    },
+    "56346": {
+        "Insomnia": "no"
+    },
+    "56660": {
+        "Insomnia": "yes"
+    },
+    "56787": {
+        "Insomnia": "yes"
+    },
+    "56908": {
+        "Insomnia": "yes"
+    },
+    "56929": {
+        "Insomnia": "yes"
+    },
+    "57112": {
+        "Insomnia": "yes"
+    },
+    "57134": {
+        "Insomnia": "yes"
+    },
+    "57151": {
+        "Insomnia": "yes"
+    },
+    "57179": {
+        "Insomnia": "yes"
+    },
+    "57416": {
+        "Insomnia": "yes"
+    },
+    "57568": {
+        "Insomnia": "yes"
+    },
+    "57944": {
+        "Insomnia": "yes"
+    },
+    "58032": {
+        "Insomnia": "no"
+    },
+    "58414": {
+        "Insomnia": "no"
+    },
+    "58657": {
+        "Insomnia": "no"
+    },
+    "58699": {
+        "Insomnia": "yes"
+    },
+    "58705": {
+        "Insomnia": "yes"
+    },
+    "58724": {
+        "Insomnia": "yes"
+    },
+    "58845": {
+        "Insomnia": "yes"
+    },
+    "59056": {
+        "Insomnia": "yes"
+    },
+    "59104": {
+        "Insomnia": "yes"
+    },
+    "59277": {
+        "Insomnia": "yes"
+    },
+    "59344": {
+        "Insomnia": "yes"
+    },
+    "59353": {
+        "Insomnia": "yes"
+    },
+    "59395": {
+        "Insomnia": "yes"
+    },
+    "59431": {
+        "Insomnia": "yes"
+    },
+    "59474": {
+        "Insomnia": "yes"
+    },
+    "59525": {
+        "Insomnia": "yes"
+    },
+    "59585": {
+        "Insomnia": "no"
+    },
+    "59622": {
+        "Insomnia": "no"
+    },
+    "1260815": {
+        "Insomnia": "yes"
+    },
+    "1260817": {
+        "Insomnia": "yes"
+    },
+    "1261469": {
+        "Insomnia": "no"
+    },
+    "1262209": {
+        "Insomnia": "yes"
+    },
+    "1262329": {
+        "Insomnia": "yes"
+    },
+    "1262480": {
+        "Insomnia": "yes"
+    },
+    "1262482": {
+        "Insomnia": "yes"
+    },
+    "1262488": {
+        "Insomnia": "yes"
+    },
+    "1262503": {
+        "Insomnia": "yes"
+    },
+    "1263208": {
+        "Insomnia": "yes"
+    },
+    "1264367": {
+        "Insomnia": "yes"
+    },
+    "1264732": {
+        "Insomnia": "yes"
+    },
+    "1264875": {
+        "Insomnia": "yes"
+    },
+    "1266108": {
+        "Insomnia": "no"
+    },
+    "1266591": {
+        "Insomnia": "no"
+    },
+    "1267167": {
+        "Insomnia": "yes"
+    },
+    "1269119": {
+        "Insomnia": "yes"
+    },
+    "1269159": {
+        "Insomnia": "yes"
+    },
+    "1269486": {
+        "Insomnia": "yes"
+    },
+    "1269626": {
+        "Insomnia": "yes"
+    },
+    "1269645": {
+        "Insomnia": "yes"
+    },
+    "1269824": {
+        "Insomnia": "yes"
+    },
+    "1270042": {
+        "Insomnia": "yes"
+    },
+    "1270043": {
+        "Insomnia": "yes"
+    },
+    "1270183": {
+        "Insomnia": "yes"
+    },
+    "1270321": {
+        "Insomnia": "yes"
+    },
+    "1270410": {
+        "Insomnia": "yes"
+    },
+    "1270954": {
+        "Insomnia": "yes"
+    },
+    "1271277": {
+        "Insomnia": "yes"
+    },
+    "1271340": {
+        "Insomnia": "no"
+    },
+    "1271403": {
+        "Insomnia": "yes"
+    },
+    "1271717": {
+        "Insomnia": "yes"
+    },
+    "1271768": {
+        "Insomnia": "no"
+    },
+    "1272818": {
+        "Insomnia": "no"
+    },
+    "1273003": {
+        "Insomnia": "yes"
+    },
+    "1274595": {
+        "Insomnia": "yes"
+    },
+    "1274675": {
+        "Insomnia": "yes"
+    },
+    "1274687": {
+        "Insomnia": "yes"
+    },
+    "1275386": {
+        "Insomnia": "no"
+    },
+    "1275556": {
+        "Insomnia": "yes"
+    },
+    "1276675": {
+        "Insomnia": "yes"
+    },
+    "1277027": {
+        "Insomnia": "yes"
+    },
+    "1277341": {
+        "Insomnia": "no"
+    },
+    "1277763": {
+        "Insomnia": "yes"
+    },
+    "1277889": {
+        "Insomnia": "no"
+    },
+    "1278248": {
+        "Insomnia": "yes"
+    },
+    "1278724": {
+        "Insomnia": "yes"
+    },
+    "1279110": {
+        "Insomnia": "yes"
+    },
+    "1279162": {
+        "Insomnia": "yes"
+    },
+    "1280148": {
+        "Insomnia": "yes"
+    },
+    "1280580": {
+        "Insomnia": "yes"
+    },
+    "1280652": {
+        "Insomnia": "yes"
+    },
+    "1281010": {
+        "Insomnia": "no"
+    },
+    "1281587": {
+        "Insomnia": "no"
+    },
+    "1281670": {
+        "Insomnia": "no"
+    },
+    "1282059": {
+        "Insomnia": "yes"
+    },
+    "1282541": {
+        "Insomnia": "yes"
+    },
+    "1283063": {
+        "Insomnia": "yes"
+    },
+    "1283427": {
+        "Insomnia": "no"
+    },
+    "1283697": {
+        "Insomnia": "yes"
+    },
+    "1284409": {
+        "Insomnia": "yes"
+    },
+    "1285063": {
+        "Insomnia": "yes"
+    },
+    "1285930": {
+        "Insomnia": "no"
+    },
+    "1286339": {
+        "Insomnia": "yes"
+    },
+    "1286408": {
+        "Insomnia": "no"
+    },
+    "1286797": {
+        "Insomnia": "yes"
+    },
+    "1287424": {
+        "Insomnia": "yes"
+    },
+    "1289504": {
+        "Insomnia": "yes"
+    },
+    "1290027": {
+        "Insomnia": "yes"
+    },
+    "1290497": {
+        "Insomnia": "no"
+    },
+    "1290619": {
+        "Insomnia": "yes"
+    },
+    "1290621": {
+        "Insomnia": "yes"
+    },
+    "1291233": {
+        "Insomnia": "no"
+    },
+    "1291328": {
+        "Insomnia": "yes"
+    },
+    "1293158": {
+        "Insomnia": "yes"
+    },
+    "1293678": {
+        "Insomnia": "yes"
+    },
+    "1294610": {
+        "Insomnia": "yes"
+    },
+    "1296277": {
+        "Insomnia": "yes"
+    },
+    "1296808": {
+        "Insomnia": "yes"
+    },
+    "1299212": {
+        "Insomnia": "yes"
+    },
+    "1299324": {
+        "Insomnia": "yes"
+    },
+    "1299325": {
+        "Insomnia": "yes"
+    },
+    "1299650": {
+        "Insomnia": "no"
+    },
+    "1299920": {
+        "Insomnia": "yes"
+    },
+    "1300146": {
+        "Insomnia": "no"
+    },
+    "1300454": {
+        "Insomnia": "yes"
+    },
+    "1301997": {
+        "Insomnia": "no"
+    },
+    "1302812": {
+        "Insomnia": "yes"
+    },
+    "1303191": {
+        "Insomnia": "no"
+    },
+    "1303226": {
+        "Insomnia": "yes"
+    },
+    "1303652": {
+        "Insomnia": "yes"
+    },
+    "1304030": {
+        "Insomnia": "yes"
+    },
+    "1304140": {
+        "Insomnia": "yes"
+    },
+    "1304313": {
+        "Insomnia": "yes"
+    },
+    "1304384": {
+        "Insomnia": "no"
+    },
+    "1306678": {
+        "Insomnia": "yes"
+    },
+    "1306690": {
+        "Insomnia": "yes"
+    },
+    "1307039": {
+        "Insomnia": "yes"
+    },
+    "1307882": {
+        "Insomnia": "yes"
+    },
+    "1308068": {
+        "Insomnia": "no"
+    },
+    "1308756": {
+        "Insomnia": "yes"
+    },
+    "1309010": {
+        "Insomnia": "yes"
+    },
+    "1309201": {
+        "Insomnia": "yes"
+    },
+    "1309724": {
+        "Insomnia": "yes"
+    },
+    "1310210": {
+        "Insomnia": "yes"
+    },
+    "1310291": {
+        "Insomnia": "no"
+    },
+    "1310391": {
+        "Insomnia": "yes"
+    },
+    "1310601": {
+        "Insomnia": "yes"
+    },
+    "1312310": {
+        "Insomnia": "yes"
+    },
+    "1312314": {
+        "Insomnia": "yes"
+    },
+    "1312640": {
+        "Insomnia": "yes"
+    },
+    "1312927": {
+        "Insomnia": "yes"
+    },
+    "1312991": {
+        "Insomnia": "no"
+    },
+    "1313328": {
+        "Insomnia": "yes"
+    },
+    "1313330": {
+        "Insomnia": "yes"
+    },
+    "1313331": {
+        "Insomnia": "no"
+    },
+    "1313916": {
+        "Insomnia": "yes"
+    },
+    "1315781": {
+        "Insomnia": "yes"
+    },
+    "1315848": {
+        "Insomnia": "yes"
+    },
+    "1316076": {
+        "Insomnia": "yes"
+    },
+    "1316178": {
+        "Insomnia": "yes"
+    },
+    "1316580": {
+        "Insomnia": "yes"
+    },
+    "1317091": {
+        "Insomnia": "yes"
+    },
+    "1318551": {
+        "Insomnia": "no"
+    },
+    "1318802": {
+        "Insomnia": "yes"
+    },
+    "1319006": {
+        "Insomnia": "no"
+    },
+    "1319930": {
+        "Insomnia": "yes"
+    },
+    "1320333": {
+        "Insomnia": "yes"
+    },
+    "1320349": {
+        "Insomnia": "yes"
+    },
+    "1320534": {
+        "Insomnia": "yes"
+    },
+    "1320975": {
+        "Insomnia": "yes"
+    },
+    "1321283": {
+        "Insomnia": "no"
+    },
+    "1321324": {
+        "Insomnia": "yes"
+    },
+    "1321340": {
+        "Insomnia": "no"
+    },
+    "1322386": {
+        "Insomnia": "yes"
+    },
+    "1322503": {
+        "Insomnia": "yes"
+    },
+    "1322797": {
+        "Insomnia": "yes"
+    },
+    "1323091": {
+        "Insomnia": "yes"
+    },
+    "1323300": {
+        "Insomnia": "yes"
+    },
+    "1323691": {
+        "Insomnia": "yes"
+    },
+    "1323712": {
+        "Insomnia": "no"
+    },
+    "1325042": {
+        "Insomnia": "yes"
+    },
+    "1325075": {
+        "Insomnia": "no"
+    },
+    "1325108": {
+        "Insomnia": "no"
+    },
+    "1325429": {
+        "Insomnia": "no"
+    },
+    "1327068": {
+        "Insomnia": "yes"
+    },
+    "1327075": {
+        "Insomnia": "yes"
+    },
+    "1327479": {
+        "Insomnia": "no"
+    },
+    "1328209": {
+        "Insomnia": "no"
+    },
+    "1328240": {
+        "Insomnia": "yes"
+    },
+    "1328283": {
+        "Insomnia": "yes"
+    },
+    "1328324": {
+        "Insomnia": "yes"
+    },
+    "1329388": {
+        "Insomnia": "no"
+    },
+    "1330183": {
+        "Insomnia": "yes"
+    },
+    "1330568": {
+        "Insomnia": "yes"
+    },
+    "1331484": {
+        "Insomnia": "yes"
+    },
+    "1331900": {
+        "Insomnia": "no"
+    },
+    "1332620": {
+        "Insomnia": "yes"
+    },
+    "1332890": {
+        "Insomnia": "yes"
+    },
+    "1333061": {
+        "Insomnia": "yes"
+    },
+    "1333063": {
+        "Insomnia": "yes"
+    },
+    "1333421": {
+        "Insomnia": "yes"
+    },
+    "1333775": {
+        "Insomnia": "no"
+    },
+    "1334011": {
+        "Insomnia": "yes"
+    },
+    "1334047": {
+        "Insomnia": "yes"
+    },
+    "1334423": {
+        "Insomnia": "yes"
+    },
+    "1337234": {
+        "Insomnia": "yes"
+    },
+    "1337245": {
+        "Insomnia": "yes"
+    },
+    "1337546": {
+        "Insomnia": "yes"
+    },
+    "1337684": {
+        "Insomnia": "yes"
+    },
+    "1338377": {
+        "Insomnia": "yes"
+    },
+    "1338816": {
+        "Insomnia": "yes"
+    },
+    "1339835": {
+        "Insomnia": "yes"
+    },
+    "1340068": {
+        "Insomnia": "yes"
+    },
+    "1340117": {
+        "Insomnia": "yes"
+    },
+    "1341103": {
+        "Insomnia": "yes"
+    },
+    "1341558": {
+        "Insomnia": "yes"
+    },
+    "1341689": {
+        "Insomnia": "yes"
+    },
+    "1342813": {
+        "Insomnia": "yes"
+    },
+    "1345528": {
+        "Insomnia": "yes"
+    },
+    "1345972": {
+        "Insomnia": "yes"
+    },
+    "1346288": {
+        "Insomnia": "yes"
+    },
+    "1347339": {
+        "Insomnia": "yes"
+    },
+    "1347563": {
+        "Insomnia": "yes"
+    },
+    "1347759": {
+        "Insomnia": "yes"
+    },
+    "1348186": {
+        "Insomnia": "yes"
+    },
+    "1348913": {
+        "Insomnia": "yes"
+    },
+    "1349410": {
+        "Insomnia": "no"
+    },
+    "1349583": {
+        "Insomnia": "yes"
+    },
+    "1349606": {
+        "Insomnia": "yes"
+    },
+    "1349907": {
+        "Insomnia": "yes"
+    },
+    "1349973": {
+        "Insomnia": "yes"
+    },
+    "1351150": {
+        "Insomnia": "yes"
+    },
+    "1351388": {
+        "Insomnia": "yes"
+    },
+    "1352786": {
+        "Insomnia": "yes"
+    },
+    "1353829": {
+        "Insomnia": "yes"
+    },
+    "1354060": {
+        "Insomnia": "yes"
+    },
+    "1354782": {
+        "Insomnia": "yes"
+    },
+    "1354878": {
+        "Insomnia": "yes"
+    },
+    "1355093": {
+        "Insomnia": "no"
+    },
+    "1355451": {
+        "Insomnia": "no"
+    },
+    "1356088": {
+        "Insomnia": "yes"
+    },
+    "1358083": {
+        "Insomnia": "yes"
+    },
+    "1359460": {
+        "Insomnia": "no"
+    },
+    "1359556": {
+        "Insomnia": "yes"
+    },
+    "1359583": {
+        "Insomnia": "yes"
+    },
+    "1360082": {
+        "Insomnia": "yes"
+    },
+    "1360111": {
+        "Insomnia": "yes"
+    },
+    "1360412": {
+        "Insomnia": "yes"
+    },
+    "1360686": {
+        "Insomnia": "yes"
+    },
+    "1360771": {
+        "Insomnia": "yes"
+    },
+    "1360906": {
+        "Insomnia": "yes"
+    },
+    "1361244": {
+        "Insomnia": "yes"
+    },
+    "1362743": {
+        "Insomnia": "no"
+    },
+    "1363299": {
+        "Insomnia": "yes"
+    },
+    "1364546": {
+        "Insomnia": "yes"
+    },
+    "1364720": {
+        "Insomnia": "yes"
+    },
+    "1364753": {
+        "Insomnia": "yes"
+    },
+    "1365064": {
+        "Insomnia": "yes"
+    },
+    "1365817": {
+        "Insomnia": "yes"
+    },
+    "1366973": {
+        "Insomnia": "no"
+    },
+    "1367835": {
+        "Insomnia": "yes"
+    },
+    "1368620": {
+        "Insomnia": "yes"
+    },
+    "1370349": {
+        "Insomnia": "yes"
+    },
+    "1371030": {
+        "Insomnia": "yes"
+    },
+    "1371041": {
+        "Insomnia": "yes"
+    },
+    "1371935": {
+        "Insomnia": "no"
+    },
+    "1372542": {
+        "Insomnia": "yes"
+    },
+    "1373050": {
+        "Insomnia": "yes"
+    },
+    "1374799": {
+        "Insomnia": "no"
+    },
+    "1375509": {
+        "Insomnia": "no"
+    },
+    "1375970": {
+        "Insomnia": "no"
+    },
+    "1376187": {
+        "Insomnia": "yes"
+    },
+    "1376261": {
+        "Insomnia": "yes"
+    },
+    "1378343": {
+        "Insomnia": "yes"
+    },
+    "1378886": {
+        "Insomnia": "yes"
+    },
+    "1379388": {
+        "Insomnia": "yes"
+    },
+    "1380686": {
+        "Insomnia": "no"
+    },
+    "1382249": {
+        "Insomnia": "yes"
+    },
+    "1382826": {
+        "Insomnia": "no"
+    },
+    "1383643": {
+        "Insomnia": "yes"
+    },
+    "1383789": {
+        "Insomnia": "yes"
+    },
+    "1383792": {
+        "Insomnia": "no"
+    },
+    "1383894": {
+        "Insomnia": "yes"
+    },
+    "1384646": {
+        "Insomnia": "no"
+    },
+    "1385432": {
+        "Insomnia": "yes"
+    },
+    "1387227": {
+        "Insomnia": "yes"
+    },
+    "1387915": {
+        "Insomnia": "no"
+    },
+    "1388258": {
+        "Insomnia": "no"
+    },
+    "1388867": {
+        "Insomnia": "no"
+    },
+    "1391829": {
+        "Insomnia": "no"
+    },
+    "1392846": {
+        "Insomnia": "yes"
+    },
+    "1392867": {
+        "Insomnia": "yes"
+    },
+    "1393125": {
+        "Insomnia": "yes"
+    },
+    "1395148": {
+        "Insomnia": "no"
+    },
+    "1395539": {
+        "Insomnia": "yes"
+    },
+    "1395906": {
+        "Insomnia": "yes"
+    },
+    "1396125": {
+        "Insomnia": "yes"
+    },
+    "1396249": {
+        "Insomnia": "yes"
+    },
+    "1396320": {
+        "Insomnia": "yes"
+    },
+    "1396346": {
+        "Insomnia": "yes"
+    },
+    "1397327": {
+        "Insomnia": "yes"
+    },
+    "1398037": {
+        "Insomnia": "no"
+    },
+    "1398967": {
+        "Insomnia": "yes"
+    },
+    "1399654": {
+        "Insomnia": "yes"
+    },
+    "1401641": {
+        "Insomnia": "yes"
+    },
+    "1401944": {
+        "Insomnia": "yes"
+    },
+    "1402256": {
+        "Insomnia": "no"
+    },
+    "1402349": {
+        "Insomnia": "no"
+    },
+    "1402577": {
+        "Insomnia": "no"
+    },
+    "1402854": {
+        "Insomnia": "yes"
+    },
+    "1403008": {
+        "Insomnia": "no"
+    },
+    "1403135": {
+        "Insomnia": "no"
+    },
+    "1403262": {
+        "Insomnia": "yes"
+    },
+    "1403839": {
+        "Insomnia": "yes"
+    },
+    "1404903": {
+        "Insomnia": "yes"
+    },
+    "1405759": {
+        "Insomnia": "yes"
+    },
+    "1405947": {
+        "Insomnia": "yes"
+    },
+    "1406009": {
+        "Insomnia": "yes"
+    },
+    "1406245": {
+        "Insomnia": "no"
+    },
+    "1406326": {
+        "Insomnia": "yes"
+    },
+    "1406511": {
+        "Insomnia": "yes"
+    },
+    "1406943": {
+        "Insomnia": "no"
+    },
+    "1407071": {
+        "Insomnia": "no"
+    },
+    "1408518": {
+        "Insomnia": "yes"
+    },
+    "1409074": {
+        "Insomnia": "yes"
+    },
+    "1409879": {
+        "Insomnia": "yes"
+    },
+    "1410313": {
+        "Insomnia": "yes"
+    },
+    "1410500": {
+        "Insomnia": "no"
+    },
+    "1410871": {
+        "Insomnia": "yes"
+    },
+    "1410874": {
+        "Insomnia": "no"
+    },
+    "1411459": {
+        "Insomnia": "no"
+    },
+    "1411652": {
+        "Insomnia": "yes"
+    },
+    "1412274": {
+        "Insomnia": "yes"
+    },
+    "1413334": {
+        "Insomnia": "no"
+    },
+    "1413502": {
+        "Insomnia": "yes"
+    },
+    "1413829": {
+        "Insomnia": "no"
+    },
+    "1414208": {
+        "Insomnia": "yes"
+    },
+    "1414224": {
+        "Insomnia": "no"
+    },
+    "1414259": {
+        "Insomnia": "yes"
+    },
+    "1414804": {
+        "Insomnia": "yes"
+    },
+    "1414815": {
+        "Insomnia": "yes"
+    },
+    "1414899": {
+        "Insomnia": "no"
+    },
+    "1415390": {
+        "Insomnia": "yes"
+    },
+    "1415421": {
+        "Insomnia": "yes"
+    },
+    "1415488": {
+        "Insomnia": "yes"
+    },
+    "1415667": {
+        "Insomnia": "no"
+    },
+    "1415837": {
+        "Insomnia": "yes"
+    },
+    "1416445": {
+        "Insomnia": "yes"
+    },
+    "1417361": {
+        "Insomnia": "yes"
+    },
+    "1417886": {
+        "Insomnia": "yes"
+    },
+    "1419607": {
+        "Insomnia": "yes"
+    },
+    "1419625": {
+        "Insomnia": "no"
+    },
+    "1421141": {
+        "Insomnia": "yes"
+    },
+    "1421410": {
+        "Insomnia": "yes"
+    },
+    "1422251": {
+        "Insomnia": "yes"
+    },
+    "1422598": {
+        "Insomnia": "yes"
+    },
+    "1422991": {
+        "Insomnia": "yes"
+    },
+    "1423053": {
+        "Insomnia": "no"
+    },
+    "1424231": {
+        "Insomnia": "yes"
+    },
+    "1425181": {
+        "Insomnia": "yes"
+    },
+    "1426683": {
+        "Insomnia": "yes"
+    },
+    "1426716": {
+        "Insomnia": "no"
+    },
+    "1427480": {
+        "Insomnia": "yes"
+    },
+    "1427922": {
+        "Insomnia": "yes"
+    },
+    "1428149": {
+        "Insomnia": "no"
+    },
+    "1429166": {
+        "Insomnia": "yes"
+    },
+    "1429257": {
+        "Insomnia": "yes"
+    },
+    "1429272": {
+        "Insomnia": "no"
+    },
+    "1429414": {
+        "Insomnia": "yes"
+    },
+    "1430628": {
+        "Insomnia": "no"
+    },
+    "1431077": {
+        "Insomnia": "yes"
+    },
+    "1432497": {
+        "Insomnia": "yes"
+    },
+    "1432848": {
+        "Insomnia": "yes"
+    },
+    "1433141": {
+        "Insomnia": "no"
+    },
+    "1433980": {
+        "Insomnia": "yes"
+    },
+    "1433991": {
+        "Insomnia": "no"
+    },
+    "1435202": {
+        "Insomnia": "no"
+    },
+    "1435368": {
+        "Insomnia": "no"
+    },
+    "1435997": {
+        "Insomnia": "yes"
+    },
+    "1436590": {
+        "Insomnia": "yes"
+    },
+    "1438246": {
+        "Insomnia": "yes"
+    },
+    "1438620": {
+        "Insomnia": "yes"
+    },
+    "1438859": {
+        "Insomnia": "no"
+    },
+    "1439490": {
+        "Insomnia": "no"
+    },
+    "1440732": {
+        "Insomnia": "no"
+    },
+    "1440941": {
+        "Insomnia": "no"
+    },
+    "1442664": {
+        "Insomnia": "yes"
+    },
+    "1442678": {
+        "Insomnia": "no"
+    },
+    "1443109": {
+        "Insomnia": "no"
+    },
+    "1444328": {
+        "Insomnia": "yes"
+    },
+    "1444333": {
+        "Insomnia": "no"
+    },
+    "1445556": {
+        "Insomnia": "yes"
+    },
+    "1446554": {
+        "Insomnia": "no"
+    },
+    "1446711": {
+        "Insomnia": "yes"
+    },
+    "1446713": {
+        "Insomnia": "yes"
+    },
+    "1446887": {
+        "Insomnia": "yes"
+    },
+    "1447463": {
+        "Insomnia": "yes"
+    },
+    "1448455": {
+        "Insomnia": "yes"
+    },
+    "1448660": {
+        "Insomnia": "no"
+    },
+    "1449108": {
+        "Insomnia": "yes"
+    },
+    "1449150": {
+        "Insomnia": "yes"
+    },
+    "1449247": {
+        "Insomnia": "yes"
+    },
+    "1449262": {
+        "Insomnia": "yes"
+    },
+    "1449607": {
+        "Insomnia": "yes"
+    },
+    "1449963": {
+        "Insomnia": "yes"
+    },
+    "1450573": {
+        "Insomnia": "no"
+    },
+    "1451381": {
+        "Insomnia": "yes"
+    },
+    "1451393": {
+        "Insomnia": "yes"
+    },
+    "1452001": {
+        "Insomnia": "yes"
+    },
+    "1453120": {
+        "Insomnia": "yes"
+    },
+    "1453979": {
+        "Insomnia": "yes"
+    },
+    "1454235": {
+        "Insomnia": "yes"
+    },
+    "1454986": {
+        "Insomnia": "yes"
+    },
+    "1456285": {
+        "Insomnia": "yes"
+    },
+    "1457189": {
+        "Insomnia": "no"
+    },
+    "1457285": {
+        "Insomnia": "no"
+    },
+    "1458746": {
+        "Insomnia": "yes"
+    },
+    "1458819": {
+        "Insomnia": "yes"
+    },
+    "1459001": {
+        "Insomnia": "yes"
+    },
+    "1459293": {
+        "Insomnia": "no"
+    },
+    "1460644": {
+        "Insomnia": "no"
+    },
+    "1461963": {
+        "Insomnia": "no"
+    },
+    "1462250": {
+        "Insomnia": "no"
+    },
+    "1462718": {
+        "Insomnia": "no"
+    },
+    "1462808": {
+        "Insomnia": "yes"
+    },
+    "1462859": {
+        "Insomnia": "yes"
+    },
+    "1463172": {
+        "Insomnia": "yes"
+    },
+    "1463890": {
+        "Insomnia": "yes"
+    },
+    "1464497": {
+        "Insomnia": "yes"
+    },
+    "1467068": {
+        "Insomnia": "yes"
+    },
+    "1467220": {
+        "Insomnia": "yes"
+    },
+    "1468055": {
+        "Insomnia": "yes"
+    },
+    "1468166": {
+        "Insomnia": "yes"
+    },
+    "1468969": {
+        "Insomnia": "no"
+    },
+    "1469738": {
+        "Insomnia": "no"
+    },
+    "1470540": {
+        "Insomnia": "yes"
+    },
+    "1470789": {
+        "Insomnia": "yes"
+    },
+    "1471060": {
+        "Insomnia": "yes"
+    },
+    "1471592": {
+        "Insomnia": "yes"
+    },
+    "1473689": {
+        "Insomnia": "no"
+    },
+    "1473939": {
+        "Insomnia": "yes"
+    },
+    "1474362": {
+        "Insomnia": "yes"
+    },
+    "1474504": {
+        "Insomnia": "no"
+    },
+    "1474566": {
+        "Insomnia": "yes"
+    },
+    "1476482": {
+        "Insomnia": "yes"
+    },
+    "1476985": {
+        "Insomnia": "yes"
+    },
+    "1476988": {
+        "Insomnia": "no"
+    },
+    "1477022": {
+        "Insomnia": "yes"
+    },
+    "1477480": {
+        "Insomnia": "yes"
+    },
+    "1477500": {
+        "Insomnia": "no"
+    },
+    "1480233": {
+        "Insomnia": "yes"
+    },
+    "1480262": {
+        "Insomnia": "no"
+    },
+    "1480828": {
+        "Insomnia": "yes"
+    },
+    "1480955": {
+        "Insomnia": "yes"
+    },
+    "1481352": {
+        "Insomnia": "yes"
+    },
+    "1481434": {
+        "Insomnia": "yes"
+    },
+    "1481545": {
+        "Insomnia": "yes"
+    },
+    "1481569": {
+        "Insomnia": "yes"
+    },
+    "1484794": {
+        "Insomnia": "no"
+    },
+    "1485520": {
+        "Insomnia": "yes"
+    },
+    "1486725": {
+        "Insomnia": "no"
+    },
+    "1488164": {
+        "Insomnia": "yes"
+    },
+    "1488758": {
+        "Insomnia": "no"
+    },
+    "1488795": {
+        "Insomnia": "no"
+    },
+    "1488913": {
+        "Insomnia": "yes"
+    },
+    "1489045": {
+        "Insomnia": "no"
+    },
+    "1489164": {
+        "Insomnia": "no"
+    },
+    "1489277": {
+        "Insomnia": "yes"
+    },
+    "1489819": {
+        "Insomnia": "no"
+    },
+    "1491549": {
+        "Insomnia": "yes"
+    },
+    "1491601": {
+        "Insomnia": "yes"
+    },
+    "1491644": {
+        "Insomnia": "yes"
+    },
+    "1492062": {
+        "Insomnia": "yes"
+    },
+    "1493292": {
+        "Insomnia": "yes"
+    },
+    "1493329": {
+        "Insomnia": "yes"
+    },
+    "1494151": {
+        "Insomnia": "yes"
+    },
+    "1494798": {
+        "Insomnia": "no"
+    },
+    "1494975": {
+        "Insomnia": "no"
+    },
+    "1496164": {
+        "Insomnia": "yes"
+    },
+    "1496413": {
+        "Insomnia": "yes"
+    },
+    "1496731": {
+        "Insomnia": "no"
+    },
+    "1498935": {
+        "Insomnia": "no"
+    },
+    "1499974": {
+        "Insomnia": "yes"
+    },
+    "1500347": {
+        "Insomnia": "yes"
+    },
+    "1501148": {
+        "Insomnia": "yes"
+    },
+    "1501753": {
+        "Insomnia": "yes"
+    },
+    "1501804": {
+        "Insomnia": "yes"
+    },
+    "1501857": {
+        "Insomnia": "yes"
+    },
+    "1501921": {
+        "Insomnia": "yes"
+    },
+    "1502851": {
+        "Insomnia": "yes"
+    },
+    "1504255": {
+        "Insomnia": "no"
+    },
+    "1504883": {
+        "Insomnia": "yes"
+    },
+    "1505804": {
+        "Insomnia": "no"
+    },
+    "1506459": {
+        "Insomnia": "yes"
+    },
+    "1509183": {
+        "Insomnia": "no"
+    },
+    "1510470": {
+        "Insomnia": "no"
+    },
+    "1512330": {
+        "Insomnia": "no"
+    },
+    "1512767": {
+        "Insomnia": "yes"
+    },
+    "1513244": {
+        "Insomnia": "yes"
+    },
+    "1513406": {
+        "Insomnia": "yes"
+    },
+    "1514022": {
+        "Insomnia": "yes"
+    },
+    "1514931": {
+        "Insomnia": "no"
+    },
+    "1515328": {
+        "Insomnia": "no"
+    },
+    "1516084": {
+        "Insomnia": "no"
+    },
+    "1516293": {
+        "Insomnia": "yes"
+    },
+    "1516511": {
+        "Insomnia": "yes"
+    },
+    "1517594": {
+        "Insomnia": "yes"
+    },
+    "1517817": {
+        "Insomnia": "yes"
+    },
+    "1517826": {
+        "Insomnia": "yes"
+    },
+    "1518723": {
+        "Insomnia": "yes"
+    },
+    "1518786": {
+        "Insomnia": "yes"
+    },
+    "1519178": {
+        "Insomnia": "yes"
+    },
+    "1519322": {
+        "Insomnia": "yes"
+    },
+    "1519725": {
+        "Insomnia": "yes"
+    },
+    "1520434": {
+        "Insomnia": "yes"
+    },
+    "1520930": {
+        "Insomnia": "yes"
+    },
+    "1521072": {
+        "Insomnia": "yes"
+    },
+    "1521227": {
+        "Insomnia": "yes"
+    },
+    "1523038": {
+        "Insomnia": "no"
+    },
+    "1523263": {
+        "Insomnia": "yes"
+    },
+    "1523581": {
+        "Insomnia": "no"
+    },
+    "1523708": {
+        "Insomnia": "yes"
+    },
+    "1523779": {
+        "Insomnia": "yes"
+    },
+    "1523828": {
+        "Insomnia": "no"
+    },
+    "1524013": {
+        "Insomnia": "yes"
+    },
+    "1524708": {
+        "Insomnia": "no"
+    },
+    "1524727": {
+        "Insomnia": "no"
+    },
+    "1525819": {
+        "Insomnia": "no"
+    },
+    "1526605": {
+        "Insomnia": "yes"
+    },
+    "1527673": {
+        "Insomnia": "yes"
+    },
+    "1528262": {
+        "Insomnia": "yes"
+    },
+    "1528633": {
+        "Insomnia": "yes"
+    },
+    "1529403": {
+        "Insomnia": "yes"
+    },
+    "1529459": {
+        "Insomnia": "no"
+    },
+    "1529605": {
+        "Insomnia": "yes"
+    },
+    "1530068": {
+        "Insomnia": "yes"
+    },
+    "1530728": {
+        "Insomnia": "yes"
+    },
+    "1532175": {
+        "Insomnia": "no"
+    },
+    "1532185": {
+        "Insomnia": "yes"
+    },
+    "1533230": {
+        "Insomnia": "yes"
+    },
+    "1533645": {
+        "Insomnia": "yes"
+    },
+    "1533787": {
+        "Insomnia": "yes"
+    },
+    "1533836": {
+        "Insomnia": "yes"
+    },
+    "1534246": {
+        "Insomnia": "yes"
+    },
+    "1534972": {
+        "Insomnia": "yes"
+    },
+    "1535099": {
+        "Insomnia": "no"
+    },
+    "1535296": {
+        "Insomnia": "no"
+    },
+    "1535570": {
+        "Insomnia": "yes"
+    },
+    "1536804": {
+        "Insomnia": "yes"
+    },
+    "1537540": {
+        "Insomnia": "yes"
+    },
+    "1537642": {
+        "Insomnia": "no"
+    },
+    "1538111": {
+        "Insomnia": "yes"
+    },
+    "1538157": {
+        "Insomnia": "yes"
+    },
+    "1538344": {
+        "Insomnia": "yes"
+    },
+    "1539105": {
+        "Insomnia": "yes"
+    },
+    "1539447": {
+        "Insomnia": "no"
+    },
+    "1539786": {
+        "Insomnia": "no"
+    },
+    "1540215": {
+        "Insomnia": "yes"
+    },
+    "1541078": {
+        "Insomnia": "yes"
+    },
+    "1541353": {
+        "Insomnia": "yes"
+    },
+    "1541612": {
+        "Insomnia": "no"
+    },
+    "1542003": {
+        "Insomnia": "yes"
+    },
+    "1543002": {
+        "Insomnia": "yes"
+    },
+    "1543070": {
+        "Insomnia": "yes"
+    },
+    "1543094": {
+        "Insomnia": "yes"
+    },
+    "1544082": {
+        "Insomnia": "yes"
+    },
+    "1545011": {
+        "Insomnia": "yes"
+    },
+    "1545247": {
+        "Insomnia": "yes"
+    },
+    "1545719": {
+        "Insomnia": "yes"
+    },
+    "1545949": {
+        "Insomnia": "yes"
+    },
+    "1546287": {
+        "Insomnia": "yes"
+    },
+    "1546355": {
+        "Insomnia": "yes"
+    },
+    "1546376": {
+        "Insomnia": "yes"
+    },
+    "1548458": {
+        "Insomnia": "yes"
+    },
+    "1549434": {
+        "Insomnia": "yes"
+    },
+    "1550268": {
+        "Insomnia": "yes"
+    },
+    "1551964": {
+        "Insomnia": "yes"
+    },
+    "1553207": {
+        "Insomnia": "yes"
+    },
+    "1553374": {
+        "Insomnia": "yes"
+    },
+    "1554945": {
+        "Insomnia": "no"
+    },
+    "1555368": {
+        "Insomnia": "yes"
+    },
+    "1555397": {
+        "Insomnia": "yes"
+    },
+    "1555862": {
+        "Insomnia": "yes"
+    },
+    "1556164": {
+        "Insomnia": "yes"
+    },
+    "1558000": {
+        "Insomnia": "yes"
+    },
+    "1558096": {
+        "Insomnia": "yes"
+    },
+    "1558349": {
+        "Insomnia": "no"
+    },
+    "1560716": {
+        "Insomnia": "yes"
+    },
+    "1561569": {
+        "Insomnia": "yes"
+    },
+    "1562407": {
+        "Insomnia": "yes"
+    },
+    "1562783": {
+        "Insomnia": "yes"
+    },
+    "1564221": {
+        "Insomnia": "yes"
+    },
+    "1564226": {
+        "Insomnia": "yes"
+    },
+    "1564322": {
+        "Insomnia": "yes"
+    },
+    "1564515": {
+        "Insomnia": "yes"
+    },
+    "1564559": {
+        "Insomnia": "yes"
+    },
+    "1565052": {
+        "Insomnia": "yes"
+    },
+    "1566749": {
+        "Insomnia": "yes"
+    },
+    "1567426": {
+        "Insomnia": "yes"
+    },
+    "1568302": {
+        "Insomnia": "yes"
+    },
+    "1568372": {
+        "Insomnia": "yes"
+    },
+    "1569301": {
+        "Insomnia": "no"
+    },
+    "1569548": {
+        "Insomnia": "yes"
+    },
+    "1569958": {
+        "Insomnia": "no"
+    },
+    "1570044": {
+        "Insomnia": "yes"
+    },
+    "1570265": {
+        "Insomnia": "yes"
+    },
+    "1570328": {
+        "Insomnia": "yes"
+    },
+    "1570544": {
+        "Insomnia": "no"
+    },
+    "1571012": {
+        "Insomnia": "yes"
+    },
+    "1571269": {
+        "Insomnia": "yes"
+    },
+    "1571701": {
+        "Insomnia": "yes"
+    },
+    "1572702": {
+        "Insomnia": "yes"
+    },
+    "1573908": {
+        "Insomnia": "yes"
+    },
+    "1575668": {
+        "Insomnia": "yes"
+    },
+    "1575702": {
+        "Insomnia": "yes"
+    },
+    "1576313": {
+        "Insomnia": "no"
+    },
+    "1576461": {
+        "Insomnia": "yes"
+    },
+    "1576952": {
+        "Insomnia": "yes"
+    },
+    "1578352": {
+        "Insomnia": "yes"
+    },
+    "1579299": {
+        "Insomnia": "yes"
+    },
+    "1579492": {
+        "Insomnia": "yes"
+    },
+    "1580837": {
+        "Insomnia": "yes"
+    },
+    "1580848": {
+        "Insomnia": "yes"
+    },
+    "1581061": {
+        "Insomnia": "yes"
+    },
+    "1581102": {
+        "Insomnia": "yes"
+    },
+    "1581189": {
+        "Insomnia": "yes"
+    },
+    "1583593": {
+        "Insomnia": "no"
+    },
+    "1584256": {
+        "Insomnia": "yes"
+    },
+    "1584291": {
+        "Insomnia": "yes"
+    },
+    "1584927": {
+        "Insomnia": "yes"
+    },
+    "1585077": {
+        "Insomnia": "no"
+    },
+    "1585262": {
+        "Insomnia": "yes"
+    },
+    "1585983": {
+        "Insomnia": "yes"
+    },
+    "1586405": {
+        "Insomnia": "yes"
+    },
+    "1587968": {
+        "Insomnia": "yes"
+    },
+    "1588020": {
+        "Insomnia": "yes"
+    },
+    "1589448": {
+        "Insomnia": "yes"
+    },
+    "1589865": {
+        "Insomnia": "no"
+    },
+    "1589935": {
+        "Insomnia": "yes"
+    },
+    "1590993": {
+        "Insomnia": "yes"
+    },
+    "1591890": {
+        "Insomnia": "no"
+    },
+    "1592072": {
+        "Insomnia": "yes"
+    },
+    "1592079": {
+        "Insomnia": "yes"
+    },
+    "1593696": {
+        "Insomnia": "yes"
+    },
+    "1593715": {
+        "Insomnia": "yes"
+    },
+    "1593850": {
+        "Insomnia": "yes"
+    },
+    "1594256": {
+        "Insomnia": "no"
+    },
+    "1594904": {
+        "Insomnia": "yes"
+    },
+    "1596117": {
+        "Insomnia": "yes"
+    },
+    "1596199": {
+        "Insomnia": "yes"
+    },
+    "1596263": {
+        "Insomnia": "yes"
+    },
+    "1596349": {
+        "Insomnia": "no"
+    },
+    "1596941": {
+        "Insomnia": "yes"
+    },
+    "1597181": {
+        "Insomnia": "yes"
+    },
+    "1597804": {
+        "Insomnia": "yes"
+    },
+    "1598093": {
+        "Insomnia": "yes"
+    },
+    "1598774": {
+        "Insomnia": "no"
+    },
+    "1599005": {
+        "Insomnia": "yes"
+    },
+    "1599742": {
+        "Insomnia": "yes"
+    },
+    "1601032": {
+        "Insomnia": "no"
+    },
+    "1601397": {
+        "Insomnia": "yes"
+    },
+    "1602331": {
+        "Insomnia": "yes"
+    },
+    "1604899": {
+        "Insomnia": "yes"
+    },
+    "1605847": {
+        "Insomnia": "yes"
+    },
+    "1606506": {
+        "Insomnia": "no"
+    },
+    "1607303": {
+        "Insomnia": "yes"
+    },
+    "1608197": {
+        "Insomnia": "yes"
+    },
+    "1608725": {
+        "Insomnia": "yes"
+    },
+    "1609241": {
+        "Insomnia": "yes"
+    },
+    "1609492": {
+        "Insomnia": "no"
+    },
+    "1609876": {
+        "Insomnia": "yes"
+    },
+    "1609979": {
+        "Insomnia": "yes"
+    },
+    "1612610": {
+        "Insomnia": "yes"
+    },
+    "1612844": {
+        "Insomnia": "no"
+    },
+    "1613543": {
+        "Insomnia": "yes"
+    },
+    "1613956": {
+        "Insomnia": "no"
+    },
+    "1616918": {
+        "Insomnia": "yes"
+    },
+    "1617026": {
+        "Insomnia": "yes"
+    },
+    "1617206": {
+        "Insomnia": "yes"
+    },
+    "1617419": {
+        "Insomnia": "yes"
+    },
+    "1619856": {
+        "Insomnia": "yes"
+    },
+    "1620007": {
+        "Insomnia": "yes"
+    },
+    "1620063": {
+        "Insomnia": "yes"
+    },
+    "1620990": {
+        "Insomnia": "yes"
+    },
+    "1621678": {
+        "Insomnia": "yes"
+    },
+    "1622479": {
+        "Insomnia": "yes"
+    },
+    "1624069": {
+        "Insomnia": "yes"
+    },
+    "1625432": {
+        "Insomnia": "yes"
+    },
+    "1625466": {
+        "Insomnia": "yes"
+    },
+    "1625937": {
+        "Insomnia": "yes"
+    },
+    "1625970": {
+        "Insomnia": "yes"
+    },
+    "1625983": {
+        "Insomnia": "yes"
+    },
+    "1626082": {
+        "Insomnia": "yes"
+    },
+    "1626287": {
+        "Insomnia": "yes"
+    },
+    "1626796": {
+        "Insomnia": "yes"
+    },
+    "1626967": {
+        "Insomnia": "yes"
+    },
+    "1627252": {
+        "Insomnia": "no"
+    },
+    "1628084": {
+        "Insomnia": "no"
+    },
+    "1629316": {
+        "Insomnia": "yes"
+    },
+    "1630626": {
+        "Insomnia": "yes"
+    },
+    "1630759": {
+        "Insomnia": "yes"
+    },
+    "1631029": {
+        "Insomnia": "yes"
+    },
+    "1631065": {
+        "Insomnia": "no"
+    },
+    "1631159": {
+        "Insomnia": "yes"
+    },
+    "1631444": {
+        "Insomnia": "yes"
+    },
+    "1631598": {
+        "Insomnia": "yes"
+    },
+    "1631646": {
+        "Insomnia": "no"
+    },
+    "1632000": {
+        "Insomnia": "yes"
+    },
+    "1632212": {
+        "Insomnia": "yes"
+    },
+    "1632859": {
+        "Insomnia": "yes"
+    },
+    "1632863": {
+        "Insomnia": "yes"
+    },
+    "1633773": {
+        "Insomnia": "yes"
+    },
+    "1634127": {
+        "Insomnia": "yes"
+    },
+    "1635546": {
+        "Insomnia": "yes"
+    },
+    "1635552": {
+        "Insomnia": "yes"
+    },
+    "1635779": {
+        "Insomnia": "yes"
+    },
+    "1636112": {
+        "Insomnia": "yes"
+    },
+    "1637481": {
+        "Insomnia": "no"
+    },
+    "1637732": {
+        "Insomnia": "yes"
+    },
+    "1637741": {
+        "Insomnia": "yes"
+    },
+    "1641000": {
+        "Insomnia": "no"
+    },
+    "1641115": {
+        "Insomnia": "yes"
+    },
+    "1643853": {
+        "Insomnia": "yes"
+    },
+    "1644117": {
+        "Insomnia": "yes"
+    },
+    "1644700": {
+        "Insomnia": "yes"
+    },
+    "1645367": {
+        "Insomnia": "no"
+    },
+    "1645730": {
+        "Insomnia": "yes"
+    },
+    "1646208": {
+        "Insomnia": "no"
+    },
+    "1646233": {
+        "Insomnia": "yes"
+    },
+    "1646654": {
+        "Insomnia": "no"
+    },
+    "1646657": {
+        "Insomnia": "yes"
+    },
+    "1646983": {
+        "Insomnia": "yes"
+    },
+    "1648253": {
+        "Insomnia": "yes"
+    },
+    "1649680": {
+        "Insomnia": "yes"
+    },
+    "1650312": {
+        "Insomnia": "yes"
+    },
+    "1650684": {
+        "Insomnia": "yes"
+    },
+    "1651879": {
+        "Insomnia": "yes"
+    },
+    "1652530": {
+        "Insomnia": "yes"
+    },
+    "1652918": {
+        "Insomnia": "yes"
+    },
+    "1655021": {
+        "Insomnia": "no"
+    },
+    "1655208": {
+        "Insomnia": "yes"
+    },
+    "1655244": {
+        "Insomnia": "yes"
+    },
+    "1655943": {
+        "Insomnia": "yes"
+    },
+    "1656256": {
+        "Insomnia": "yes"
+    },
+    "1656787": {
+        "Insomnia": "no"
+    },
+    "1657162": {
+        "Insomnia": "no"
+    },
+    "1657230": {
+        "Insomnia": "no"
+    },
+    "1657256": {
+        "Insomnia": "yes"
+    },
+    "1657260": {
+        "Insomnia": "no"
+    },
+    "1657284": {
+        "Insomnia": "yes"
+    },
+    "1657419": {
+        "Insomnia": "yes"
+    },
+    "1657928": {
+        "Insomnia": "yes"
+    },
+    "1659623": {
+        "Insomnia": "yes"
+    },
+    "1660349": {
+        "Insomnia": "no"
+    },
+    "1660535": {
+        "Insomnia": "yes"
+    },
+    "1660735": {
+        "Insomnia": "yes"
+    },
+    "1660995": {
+        "Insomnia": "yes"
+    },
+    "1661341": {
+        "Insomnia": "no"
+    },
+    "1663197": {
+        "Insomnia": "no"
+    },
+    "1663762": {
+        "Insomnia": "yes"
+    },
+    "1664105": {
+        "Insomnia": "yes"
+    },
+    "1665237": {
+        "Insomnia": "yes"
+    },
+    "1665410": {
+        "Insomnia": "yes"
+    },
+    "1665412": {
+        "Insomnia": "yes"
+    },
+    "1665513": {
+        "Insomnia": "yes"
+    },
+    "1665704": {
+        "Insomnia": "yes"
+    },
+    "1666918": {
+        "Insomnia": "yes"
+    },
+    "1667786": {
+        "Insomnia": "yes"
+    },
+    "1669418": {
+        "Insomnia": "yes"
+    },
+    "1669828": {
+        "Insomnia": "yes"
+    },
+    "1669831": {
+        "Insomnia": "yes"
+    },
+    "1669925": {
+        "Insomnia": "yes"
+    },
+    "1671486": {
+        "Insomnia": "yes"
+    },
+    "1675075": {
+        "Insomnia": "yes"
+    },
+    "1676322": {
+        "Insomnia": "yes"
+    },
+    "1676393": {
+        "Insomnia": "yes"
+    },
+    "1676400": {
+        "Insomnia": "yes"
+    },
+    "1678185": {
+        "Insomnia": "yes"
+    },
+    "1679481": {
+        "Insomnia": "no"
+    },
+    "1681616": {
+        "Insomnia": "yes"
+    },
+    "1681860": {
+        "Insomnia": "yes"
+    },
+    "1682294": {
+        "Insomnia": "no"
+    },
+    "1683320": {
+        "Insomnia": "no"
+    },
+    "1684146": {
+        "Insomnia": "no"
+    },
+    "1684396": {
+        "Insomnia": "no"
+    },
+    "1684655": {
+        "Insomnia": "no"
+    },
+    "1685741": {
+        "Insomnia": "no"
+    },
+    "1685744": {
+        "Insomnia": "no"
+    },
+    "1686082": {
+        "Insomnia": "yes"
+    },
+    "1686649": {
+        "Insomnia": "no"
+    },
+    "1687655": {
+        "Insomnia": "no"
+    },
+    "1688482": {
+        "Insomnia": "no"
+    },
+    "1689838": {
+        "Insomnia": "yes"
+    },
+    "1689943": {
+        "Insomnia": "no"
+    },
+    "1690307": {
+        "Insomnia": "no"
+    },
+    "1691033": {
+        "Insomnia": "no"
+    },
+    "1691658": {
+        "Insomnia": "no"
+    },
+    "1692083": {
+        "Insomnia": "no"
+    },
+    "1694844": {
+        "Insomnia": "no"
+    },
+    "1696144": {
+        "Insomnia": "no"
+    },
+    "1696620": {
+        "Insomnia": "no"
+    },
+    "1697224": {
+        "Insomnia": "no"
+    },
+    "1698952": {
+        "Insomnia": "no"
+    },
+    "1698986": {
+        "Insomnia": "no"
+    },
+    "1699083": {
+        "Insomnia": "no"
+    },
+    "1700129": {
+        "Insomnia": "no"
+    },
+    "1700805": {
+        "Insomnia": "no"
+    },
+    "1702400": {
+        "Insomnia": "no"
+    },
+    "1702611": {
+        "Insomnia": "no"
+    },
+    "1703791": {
+        "Insomnia": "yes"
+    },
+    "1703959": {
+        "Insomnia": "no"
+    },
+    "1703976": {
+        "Insomnia": "yes"
+    },
+    "1704363": {
+        "Insomnia": "no"
+    },
+    "1704731": {
+        "Insomnia": "yes"
+    },
+    "1705431": {
+        "Insomnia": "yes"
+    },
+    "1706274": {
+        "Insomnia": "no"
+    },
+    "1706453": {
+        "Insomnia": "no"
+    },
+    "1707241": {
+        "Insomnia": "no"
+    },
+    "1707427": {
+        "Insomnia": "no"
+    },
+    "1708320": {
+        "Insomnia": "no"
+    },
+    "1709292": {
+        "Insomnia": "no"
+    },
+    "1710422": {
+        "Insomnia": "no"
+    },
+    "1711201": {
+        "Insomnia": "no"
+    },
+    "1711378": {
+        "Insomnia": "no"
+    },
+    "1714267": {
+        "Insomnia": "no"
+    },
+    "1715399": {
+        "Insomnia": "no"
+    },
+    "1715439": {
+        "Insomnia": "no"
+    },
+    "1716466": {
+        "Insomnia": "no"
+    },
+    "1718933": {
+        "Insomnia": "no"
+    },
+    "1719848": {
+        "Insomnia": "no"
+    },
+    "1721804": {
+        "Insomnia": "no"
+    },
+    "1721917": {
+        "Insomnia": "yes"
+    },
+    "1721984": {
+        "Insomnia": "no"
+    },
+    "1722303": {
+        "Insomnia": "no"
+    },
+    "1726148": {
+        "Insomnia": "no"
+    },
+    "1727193": {
+        "Insomnia": "no"
+    },
+    "1727646": {
+        "Insomnia": "no"
+    },
+    "1728504": {
+        "Insomnia": "no"
+    },
+    "1730599": {
+        "Insomnia": "no"
+    },
+    "1731007": {
+        "Insomnia": "yes"
+    },
+    "1731268": {
+        "Insomnia": "no"
+    },
+    "1731458": {
+        "Insomnia": "no"
+    },
+    "1731587": {
+        "Insomnia": "no"
+    },
+    "1732168": {
+        "Insomnia": "no"
+    },
+    "1733686": {
+        "Insomnia": "yes"
+    },
+    "1733709": {
+        "Insomnia": "no"
+    },
+    "1734261": {
+        "Insomnia": "yes"
+    },
+    "1735362": {
+        "Insomnia": "no"
+    },
+    "1735433": {
+        "Insomnia": "no"
+    },
+    "1737115": {
+        "Insomnia": "no"
+    },
+    "1737444": {
+        "Insomnia": "no"
+    },
+    "1737611": {
+        "Insomnia": "no"
+    },
+    "1740065": {
+        "Insomnia": "no"
+    },
+    "1740126": {
+        "Insomnia": "no"
+    },
+    "1740310": {
+        "Insomnia": "no"
+    },
+    "1742999": {
+        "Insomnia": "yes"
+    },
+    "1744331": {
+        "Insomnia": "yes"
+    },
+    "1746525": {
+        "Insomnia": "no"
+    },
+    "1747201": {
+        "Insomnia": "no"
+    },
+    "1748769": {
+        "Insomnia": "no"
+    },
+    "1748806": {
+        "Insomnia": "no"
+    },
+    "1749329": {
+        "Insomnia": "no"
+    },
+    "1749783": {
+        "Insomnia": "no"
+    },
+    "1750320": {
+        "Insomnia": "no"
+    },
+    "1750406": {
+        "Insomnia": "no"
+    },
+    "1750687": {
+        "Insomnia": "no"
+    },
+    "1751757": {
+        "Insomnia": "no"
+    },
+    "1754438": {
+        "Insomnia": "no"
+    },
+    "1755050": {
+        "Insomnia": "no"
+    },
+    "1757627": {
+        "Insomnia": "no"
+    },
+    "1760610": {
+        "Insomnia": "no"
+    },
+    "1760927": {
+        "Insomnia": "no"
+    },
+    "1761541": {
+        "Insomnia": "no"
+    },
+    "1763152": {
+        "Insomnia": "yes"
+    },
+    "1763648": {
+        "Insomnia": "yes"
+    },
+    "1765618": {
+        "Insomnia": "no"
+    },
+    "1766024": {
+        "Insomnia": "no"
+    },
+    "1768247": {
+        "Insomnia": "no"
+    },
+    "1768259": {
+        "Insomnia": "no"
+    },
+    "1772707": {
+        "Insomnia": "no"
+    },
+    "1772897": {
+        "Insomnia": "no"
+    },
+    "1772997": {
+        "Insomnia": "no"
+    },
+    "1773567": {
+        "Insomnia": "no"
+    },
+    "1773587": {
+        "Insomnia": "no"
+    },
+    "1774189": {
+        "Insomnia": "no"
+    },
+    "1774469": {
+        "Insomnia": "no"
+    },
+    "1777112": {
+        "Insomnia": "no"
+    },
+    "1777295": {
+        "Insomnia": "no"
+    },
+    "1777460": {
+        "Insomnia": "no"
+    },
+    "1778330": {
+        "Insomnia": "no"
+    },
+    "1780709": {
+        "Insomnia": "yes"
+    },
+    "1783002": {
+        "Insomnia": "no"
+    },
+    "1783024": {
+        "Insomnia": "no"
+    },
+    "1784715": {
+        "Insomnia": "no"
+    },
+    "1785359": {
+        "Insomnia": "no"
+    },
+    "1785761": {
+        "Insomnia": "no"
+    },
+    "1786200": {
+        "Insomnia": "no"
+    },
+    "1786509": {
+        "Insomnia": "no"
+    },
+    "1787112": {
+        "Insomnia": "no"
+    },
+    "1787760": {
+        "Insomnia": "no"
+    },
+    "1787846": {
+        "Insomnia": "no"
+    },
+    "1789844": {
+        "Insomnia": "no"
+    },
+    "1790502": {
+        "Insomnia": "yes"
+    },
+    "1790858": {
+        "Insomnia": "no"
+    },
+    "1791142": {
+        "Insomnia": "yes"
+    },
+    "1791539": {
+        "Insomnia": "no"
+    },
+    "1792337": {
+        "Insomnia": "no"
+    },
+    "1793099": {
+        "Insomnia": "yes"
+    },
+    "1794311": {
+        "Insomnia": "no"
+    },
+    "1796011": {
+        "Insomnia": "yes"
+    },
+    "1797603": {
+        "Insomnia": "no"
+    },
+    "1797852": {
+        "Insomnia": "no"
+    },
+    "1800926": {
+        "Insomnia": "no"
+    },
+    "1801277": {
+        "Insomnia": "yes"
+    },
+    "1801468": {
+        "Insomnia": "yes"
+    },
+    "1801718": {
+        "Insomnia": "no"
+    },
+    "1802492": {
+        "Insomnia": "no"
+    },
+    "1802728": {
+        "Insomnia": "no"
+    },
+    "1803567": {
+        "Insomnia": "no"
+    },
+    "1804421": {
+        "Insomnia": "yes"
+    },
+    "1805402": {
+        "Insomnia": "no"
+    },
+    "1805757": {
+        "Insomnia": "no"
+    },
+    "1805889": {
+        "Insomnia": "yes"
+    },
+    "1806233": {
+        "Insomnia": "no"
+    },
+    "1806246": {
+        "Insomnia": "no"
+    },
+    "1808708": {
+        "Insomnia": "no"
+    },
+    "1808883": {
+        "Insomnia": "no"
+    },
+    "1809380": {
+        "Insomnia": "no"
+    },
+    "1811401": {
+        "Insomnia": "no"
+    },
+    "1811948": {
+        "Insomnia": "no"
+    },
+    "1812144": {
+        "Insomnia": "no"
+    },
+    "1812246": {
+        "Insomnia": "no"
+    },
+    "1812838": {
+        "Insomnia": "no"
+    },
+    "1813158": {
+        "Insomnia": "no"
+    },
+    "1813201": {
+        "Insomnia": "no"
+    },
+    "1814073": {
+        "Insomnia": "yes"
+    },
+    "1817127": {
+        "Insomnia": "no"
+    },
+    "1818959": {
+        "Insomnia": "no"
+    },
+    "1819755": {
+        "Insomnia": "no"
+    },
+    "1821800": {
+        "Insomnia": "no"
+    },
+    "1821865": {
+        "Insomnia": "no"
+    },
+    "1824076": {
+        "Insomnia": "no"
+    },
+    "1825092": {
+        "Insomnia": "no"
+    },
+    "1830350": {
+        "Insomnia": "no"
+    },
+    "1830649": {
+        "Insomnia": "no"
+    },
+    "1832820": {
+        "Insomnia": "no"
+    },
+    "1835452": {
+        "Insomnia": "no"
+    },
+    "1835629": {
+        "Insomnia": "no"
+    },
+    "1835918": {
+        "Insomnia": "no"
+    },
+    "1836035": {
+        "Insomnia": "no"
+    },
+    "1836237": {
+        "Insomnia": "no"
+    },
+    "1837292": {
+        "Insomnia": "no"
+    },
+    "1837679": {
+        "Insomnia": "no"
+    },
+    "1837889": {
+        "Insomnia": "no"
+    },
+    "1838540": {
+        "Insomnia": "no"
+    },
+    "1838702": {
+        "Insomnia": "yes"
+    },
+    "1839160": {
+        "Insomnia": "no"
+    },
+    "1839809": {
+        "Insomnia": "no"
+    },
+    "1840291": {
+        "Insomnia": "no"
+    },
+    "1840379": {
+        "Insomnia": "no"
+    },
+    "1840632": {
+        "Insomnia": "yes"
+    },
+    "1842002": {
+        "Insomnia": "no"
+    },
+    "1842206": {
+        "Insomnia": "no"
+    },
+    "1842879": {
+        "Insomnia": "no"
+    },
+    "1842968": {
+        "Insomnia": "yes"
+    },
+    "1843872": {
+        "Insomnia": "no"
+    },
+    "1844390": {
+        "Insomnia": "no"
+    },
+    "1845447": {
+        "Insomnia": "no"
+    },
+    "1846881": {
+        "Insomnia": "no"
+    },
+    "1846987": {
+        "Insomnia": "no"
+    },
+    "1847405": {
+        "Insomnia": "no"
+    },
+    "1849530": {
+        "Insomnia": "no"
+    },
+    "1850087": {
+        "Insomnia": "no"
+    },
+    "1850546": {
+        "Insomnia": "yes"
+    },
+    "1852321": {
+        "Insomnia": "no"
+    },
+    "1852378": {
+        "Insomnia": "no"
+    },
+    "1853736": {
+        "Insomnia": "no"
+    },
+    "1853749": {
+        "Insomnia": "no"
+    },
+    "1853829": {
+        "Insomnia": "yes"
+    },
+    "1854131": {
+        "Insomnia": "no"
+    },
+    "1854429": {
+        "Insomnia": "no"
+    },
+    "1854808": {
+        "Insomnia": "no"
+    },
+    "1855077": {
+        "Insomnia": "no"
+    },
+    "1856910": {
+        "Insomnia": "yes"
+    },
+    "1857891": {
+        "Insomnia": "no"
+    },
+    "1857935": {
+        "Insomnia": "no"
+    },
+    "1858905": {
+        "Insomnia": "no"
+    },
+    "1859703": {
+        "Insomnia": "yes"
+    },
+    "1862684": {
+        "Insomnia": "no"
+    },
+    "1865888": {
+        "Insomnia": "no"
+    },
+    "1865975": {
+        "Insomnia": "no"
+    },
+    "1866756": {
+        "Insomnia": "no"
+    },
+    "1867723": {
+        "Insomnia": "no"
+    },
+    "1867742": {
+        "Insomnia": "no"
+    },
+    "1871005": {
+        "Insomnia": "yes"
+    },
+    "1871642": {
+        "Insomnia": "no"
+    },
+    "1872112": {
+        "Insomnia": "no"
+    },
+    "1873461": {
+        "Insomnia": "no"
+    },
+    "1876474": {
+        "Insomnia": "no"
+    },
+    "1878714": {
+        "Insomnia": "no"
+    },
+    "1878720": {
+        "Insomnia": "no"
+    },
+    "1880364": {
+        "Insomnia": "no"
+    },
+    "1880735": {
+        "Insomnia": "yes"
+    },
+    "1880816": {
+        "Insomnia": "no"
+    },
+    "1881097": {
+        "Insomnia": "yes"
+    },
+    "1882312": {
+        "Insomnia": "no"
+    },
+    "1882578": {
+        "Insomnia": "no"
+    },
+    "1883797": {
+        "Insomnia": "no"
+    },
+    "1884147": {
+        "Insomnia": "no"
+    },
+    "1884165": {
+        "Insomnia": "no"
+    },
+    "1884461": {
+        "Insomnia": "no"
+    },
+    "1884590": {
+        "Insomnia": "no"
+    },
+    "1884740": {
+        "Insomnia": "no"
+    },
+    "1884837": {
+        "Insomnia": "no"
+    },
+    "1884953": {
+        "Insomnia": "no"
+    },
+    "1886423": {
+        "Insomnia": "no"
+    },
+    "1886553": {
+        "Insomnia": "no"
+    },
+    "1887445": {
+        "Insomnia": "no"
+    },
+    "1888182": {
+        "Insomnia": "no"
+    },
+    "1888305": {
+        "Insomnia": "no"
+    },
+    "1890385": {
+        "Insomnia": "no"
+    },
+    "1891443": {
+        "Insomnia": "no"
+    },
+    "1892162": {
+        "Insomnia": "no"
+    },
+    "1892488": {
+        "Insomnia": "no"
+    },
+    "1892856": {
+        "Insomnia": "no"
+    },
+    "1892994": {
+        "Insomnia": "no"
+    },
+    "1893492": {
+        "Insomnia": "no"
+    },
+    "1895392": {
+        "Insomnia": "no"
+    },
+    "1895466": {
+        "Insomnia": "no"
+    },
+    "1896046": {
+        "Insomnia": "no"
+    },
+    "1898076": {
+        "Insomnia": "no"
+    },
+    "1898208": {
+        "Insomnia": "no"
+    },
+    "1898492": {
+        "Insomnia": "no"
+    },
+    "1900009": {
+        "Insomnia": "no"
+    },
+    "1900023": {
+        "Insomnia": "no"
+    },
+    "1900275": {
+        "Insomnia": "no"
+    },
+    "1902489": {
+        "Insomnia": "no"
+    },
+    "1903530": {
+        "Insomnia": "no"
+    },
+    "1903550": {
+        "Insomnia": "no"
+    },
+    "1904643": {
+        "Insomnia": "no"
+    },
+    "1905211": {
+        "Insomnia": "no"
+    },
+    "1905966": {
+        "Insomnia": "no"
+    },
+    "1906328": {
+        "Insomnia": "no"
+    },
+    "1906703": {
+        "Insomnia": "no"
+    },
+    "1909582": {
+        "Insomnia": "no"
+    },
+    "1909852": {
+        "Insomnia": "no"
+    },
+    "1910519": {
+        "Insomnia": "no"
+    },
+    "1911979": {
+        "Insomnia": "yes"
+    },
+    "1913720": {
+        "Insomnia": "no"
+    },
+    "1914222": {
+        "Insomnia": "no"
+    },
+    "1915457": {
+        "Insomnia": "yes"
+    },
+    "1915705": {
+        "Insomnia": "no"
+    },
+    "1916063": {
+        "Insomnia": "no"
+    },
+    "1920851": {
+        "Insomnia": "no"
+    },
+    "1922289": {
+        "Insomnia": "no"
+    },
+    "1923079": {
+        "Insomnia": "no"
+    },
+    "1923662": {
+        "Insomnia": "yes"
+    },
+    "1924126": {
+        "Insomnia": "no"
+    },
+    "1924890": {
+        "Insomnia": "yes"
+    },
+    "1925792": {
+        "Insomnia": "no"
+    },
+    "1927078": {
+        "Insomnia": "no"
+    },
+    "1928275": {
+        "Insomnia": "no"
+    },
+    "1929023": {
+        "Insomnia": "yes"
+    },
+    "1929952": {
+        "Insomnia": "no"
+    },
+    "1930366": {
+        "Insomnia": "yes"
+    },
+    "1932301": {
+        "Insomnia": "no"
+    },
+    "1934314": {
+        "Insomnia": "no"
+    },
+    "1934822": {
+        "Insomnia": "no"
+    },
+    "1936053": {
+        "Insomnia": "no"
+    },
+    "1936196": {
+        "Insomnia": "no"
+    },
+    "1936710": {
+        "Insomnia": "no"
+    },
+    "1937419": {
+        "Insomnia": "no"
+    },
+    "1937492": {
+        "Insomnia": "no"
+    },
+    "1937573": {
+        "Insomnia": "no"
+    },
+    "1938229": {
+        "Insomnia": "yes"
+    },
+    "1938259": {
+        "Insomnia": "no"
+    },
+    "1938289": {
+        "Insomnia": "no"
+    },
+    "1940102": {
+        "Insomnia": "no"
+    },
+    "1940132": {
+        "Insomnia": "no"
+    },
+    "1941282": {
+        "Insomnia": "no"
+    },
+    "1941765": {
+        "Insomnia": "no"
+    },
+    "1943793": {
+        "Insomnia": "no"
+    },
+    "1945985": {
+        "Insomnia": "no"
+    },
+    "1946787": {
+        "Insomnia": "no"
+    },
+    "1946907": {
+        "Insomnia": "no"
+    },
+    "1947248": {
+        "Insomnia": "no"
+    },
+    "1947948": {
+        "Insomnia": "no"
+    },
+    "1948622": {
+        "Insomnia": "no"
+    },
+    "1949129": {
+        "Insomnia": "no"
+    },
+    "1949179": {
+        "Insomnia": "no"
+    },
+    "1949265": {
+        "Insomnia": "no"
+    },
+    "1949284": {
+        "Insomnia": "no"
+    },
+    "1950640": {
+        "Insomnia": "no"
+    },
+    "1952062": {
+        "Insomnia": "yes"
+    },
+    "1952216": {
+        "Insomnia": "no"
+    },
+    "1952987": {
+        "Insomnia": "no"
+    },
+    "1954993": {
+        "Insomnia": "no"
+    },
+    "1955268": {
+        "Insomnia": "yes"
+    },
+    "1955510": {
+        "Insomnia": "no"
+    },
+    "1955884": {
+        "Insomnia": "yes"
+    },
+    "1956072": {
+        "Insomnia": "no"
+    },
+    "1956775": {
+        "Insomnia": "no"
+    },
+    "1959215": {
+        "Insomnia": "no"
+    },
+    "1959979": {
+        "Insomnia": "no"
+    },
+    "1961514": {
+        "Insomnia": "no"
+    },
+    "1962313": {
+        "Insomnia": "yes"
+    },
+    "1962336": {
+        "Insomnia": "no"
+    },
+    "1964411": {
+        "Insomnia": "no"
+    },
+    "1964849": {
+        "Insomnia": "yes"
+    },
+    "1964881": {
+        "Insomnia": "yes"
+    },
+    "1965953": {
+        "Insomnia": "no"
+    },
+    "1966017": {
+        "Insomnia": "no"
+    },
+    "1967267": {
+        "Insomnia": "no"
+    },
+    "1970465": {
+        "Insomnia": "no"
+    },
+    "1970582": {
+        "Insomnia": "no"
+    },
+    "1970825": {
+        "Insomnia": "no"
+    },
+    "1971035": {
+        "Insomnia": "no"
+    },
+    "1971247": {
+        "Insomnia": "no"
+    },
+    "1972193": {
+        "Insomnia": "no"
+    },
+    "1972467": {
+        "Insomnia": "no"
+    },
+    "1973884": {
+        "Insomnia": "no"
+    },
+    "1973930": {
+        "Insomnia": "yes"
+    },
+    "1976259": {
+        "Insomnia": "no"
+    },
+    "1976616": {
+        "Insomnia": "no"
+    },
+    "1976794": {
+        "Insomnia": "no"
+    },
+    "1977407": {
+        "Insomnia": "no"
+    },
+    "1980268": {
+        "Insomnia": "yes"
+    },
+    "1982249": {
+        "Insomnia": "no"
+    },
+    "1982776": {
+        "Insomnia": "no"
+    },
+    "1985867": {
+        "Insomnia": "no"
+    },
+    "1986533": {
+        "Insomnia": "no"
+    },
+    "1987571": {
+        "Insomnia": "yes"
+    },
+    "1989105": {
+        "Insomnia": "no"
+    },
+    "1989132": {
+        "Insomnia": "no"
+    },
+    "1991901": {
+        "Insomnia": "no"
+    },
+    "1993443": {
+        "Insomnia": "no"
+    },
+    "1994527": {
+        "Insomnia": "no"
+    },
+    "1994617": {
+        "Insomnia": "no"
+    },
+    "1994731": {
+        "Insomnia": "yes"
+    },
+    "1994948": {
+        "Insomnia": "no"
+    },
+    "1996046": {
+        "Insomnia": "no"
+    },
+    "1996173": {
+        "Insomnia": "no"
+    },
+    "1996577": {
+        "Insomnia": "no"
+    },
+    "1997240": {
+        "Insomnia": "no"
+    },
+    "1998046": {
+        "Insomnia": "no"
+    },
+    "1998492": {
+        "Insomnia": "no"
+    },
+    "1998635": {
+        "Insomnia": "no"
+    },
+    "1999132": {
+        "Insomnia": "no"
+    },
+    "1999673": {
+        "Insomnia": "no"
+    },
+    "2000559": {
+        "Insomnia": "no"
+    },
+    "2004080": {
+        "Insomnia": "no"
+    },
+    "2004202": {
+        "Insomnia": "no"
+    },
+    "2004638": {
+        "Insomnia": "no"
+    },
+    "2006272": {
+        "Insomnia": "no"
+    },
+    "2007220": {
+        "Insomnia": "yes"
+    },
+    "2007221": {
+        "Insomnia": "no"
+    },
+    "2007704": {
+        "Insomnia": "no"
+    },
+    "2008045": {
+        "Insomnia": "no"
+    },
+    "2008080": {
+        "Insomnia": "yes"
+    },
+    "2008167": {
+        "Insomnia": "no"
+    },
+    "2009547": {
+        "Insomnia": "no"
+    },
+    "2011303": {
+        "Insomnia": "no"
+    },
+    "2011912": {
+        "Insomnia": "no"
+    },
+    "2012938": {
+        "Insomnia": "no"
+    },
+    "2013384": {
+        "Insomnia": "no"
+    },
+    "2014347": {
+        "Insomnia": "no"
+    },
+    "2014900": {
+        "Insomnia": "yes"
+    },
+    "2015354": {
+        "Insomnia": "no"
+    },
+    "2016386": {
+        "Insomnia": "no"
+    },
+    "2017925": {
+        "Insomnia": "no"
+    },
+    "2019871": {
+        "Insomnia": "no"
+    },
+    "2019979": {
+        "Insomnia": "no"
+    },
+    "2021094": {
+        "Insomnia": "no"
+    },
+    "2021642": {
+        "Insomnia": "no"
+    },
+    "2022465": {
+        "Insomnia": "no"
+    },
+    "2023619": {
+        "Insomnia": "no"
+    },
+    "2024164": {
+        "Insomnia": "yes"
+    },
+    "2024496": {
+        "Insomnia": "no"
+    },
+    "2024792": {
+        "Insomnia": "no"
+    },
+    "2025490": {
+        "Insomnia": "yes"
+    },
+    "2026079": {
+        "Insomnia": "no"
+    },
+    "2026715": {
+        "Insomnia": "no"
+    },
+    "2026785": {
+        "Insomnia": "no"
+    },
+    "2028061": {
+        "Insomnia": "no"
+    },
+    "2029198": {
+        "Insomnia": "no"
+    },
+    "2031376": {
+        "Insomnia": "no"
+    },
+    "2031595": {
+        "Insomnia": "no"
+    },
+    "2032113": {
+        "Insomnia": "no"
+    },
+    "2034199": {
+        "Insomnia": "no"
+    },
+    "2034286": {
+        "Insomnia": "yes"
+    },
+    "2036074": {
+        "Insomnia": "no"
+    },
+    "2036143": {
+        "Insomnia": "no"
+    },
+    "2036907": {
+        "Insomnia": "no"
+    },
+    "2039017": {
+        "Insomnia": "no"
+    },
+    "2041004": {
+        "Insomnia": "no"
+    },
+    "2041298": {
+        "Insomnia": "no"
+    },
+    "2042091": {
+        "Insomnia": "no"
+    },
+    "2045061": {
+        "Insomnia": "no"
+    },
+    "2045333": {
+        "Insomnia": "no"
+    },
+    "2046683": {
+        "Insomnia": "no"
+    },
+    "2050004": {
+        "Insomnia": "yes"
+    },
+    "2050011": {
+        "Insomnia": "no"
+    },
+    "2052511": {
+        "Insomnia": "no"
+    },
+    "2052544": {
+        "Insomnia": "yes"
+    },
+    "2052718": {
+        "Insomnia": "no"
+    },
+    "2053655": {
+        "Insomnia": "no"
+    },
+    "2054809": {
+        "Insomnia": "no"
+    },
+    "2056755": {
+        "Insomnia": "no"
+    },
+    "2057182": {
+        "Insomnia": "yes"
+    },
+    "2058147": {
+        "Insomnia": "yes"
+    },
+    "2059218": {
+        "Insomnia": "no"
+    },
+    "2059950": {
+        "Insomnia": "no"
+    },
+    "2061849": {
+        "Insomnia": "no"
+    },
+    "2062153": {
+        "Insomnia": "no"
+    },
+    "2062889": {
+        "Insomnia": "no"
+    },
+    "2062916": {
+        "Insomnia": "no"
+    },
+    "2063106": {
+        "Insomnia": "no"
+    },
+    "2064353": {
+        "Insomnia": "yes"
+    },
+    "2069376": {
+        "Insomnia": "no"
+    },
+    "2072802": {
+        "Insomnia": "no"
+    },
+    "2075310": {
+        "Insomnia": "no"
+    },
+    "2076591": {
+        "Insomnia": "no"
+    },
+    "2077423": {
+        "Insomnia": "no"
+    },
+    "2078201": {
+        "Insomnia": "no"
+    },
+    "2078446": {
+        "Insomnia": "no"
+    },
+    "2081638": {
+        "Insomnia": "no"
+    },
+    "2082036": {
+        "Insomnia": "no"
+    },
+    "2082044": {
+        "Insomnia": "no"
+    },
+    "2082673": {
+        "Insomnia": "no"
+    },
+    "2083113": {
+        "Insomnia": "no"
+    }
+}
