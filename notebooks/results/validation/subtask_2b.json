@@ -1,5 +1,5 @@
 {
-    "1280230": {
+    "1280230.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -21,7 +21,7 @@
             "text": []
         }
     },
-    "1286616": {
+    "1286616.0": {
         "Definition 1": {
             "label": "no",
             "text": []
@@ -43,7 +43,7 @@
             ]
         }
     },
-    "1291281": {
+    "1291281.0": {
         "Definition 1": {
             "label": "no",
             "text": []
@@ -63,7 +63,7 @@
             "text": []
         }
     },
-    "1293851": {
+    "1293851.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -89,7 +89,97 @@
             ]
         }
     },
-    "1295870": {
+    "1295870.0": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "unable to sleep on either bipap\nwaking up to sternal rub, coughed up mod amts yellow secretions"
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "can't concentrate \ncomplains about sleep quality"
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    },
+    "1298934.0": {
+        "Definition 1": {
+            "label": "no",
+            "text": []
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "[Pt. A little confused/forgetful re: events of the past few days. MAE. Received 10 mg Valium @ 0300 for insomnia with some effect.]"
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Valium"
+            ]
+        }
+    },
+    "1300300.0": {
+        "Definition 1": {
+            "label": "no",
+            "text": []
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"very [Country **] and pleasant\""
+            ]
+        },
+        "Rule B": {
+            "label": "no",
+            "text": []
+        },
+        "Rule C": {
+            "label": "no",
+            "text": []
+        }
+    },
+    "1306672.0": {
+        "Definition 1": {
+            "label": "yes",
+            "text": [
+                "\"unable to sleep\""
+            ]
+        },
+        "Definition 2": {
+            "label": "yes",
+            "text": [
+                "\"I am just so tired...\""
+            ]
+        },
+        "Rule B": {
+            "label": "yes",
+            "text": [
+                "Zolpidem"
+            ]
+        },
+        "Rule C": {
+            "label": "yes",
+            "text": [
+                "Trazodone, Trazadone"
+            ]
+        }
+    },
+    "1308278.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -113,7 +203,7 @@
             ]
         }
     },
-    "1298934": {
+    "1313641.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -137,7 +227,7 @@
             ]
         }
     },
-    "1300300": {
+    "1317793.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -161,7 +251,7 @@
             ]
         }
     },
-    "1306672": {
+    "1318788.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -185,7 +275,7 @@
             "text": []
         }
     },
-    "1308278": {
+    "1330529.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -209,7 +299,7 @@
             ]
         }
     },
-    "1313641": {
+    "14380.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -235,7 +325,7 @@
             ]
         }
     },
-    "1317793": {
+    "14435.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -257,7 +347,7 @@
             "text": []
         }
     },
-    "1318788": {
+    "1731.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -281,7 +371,7 @@
             ]
         }
     },
-    "1330529": {
+    "17455.0": {
         "Definition 1": {
             "label": "no",
             "text": []
@@ -299,7 +389,7 @@
             "text": []
         }
     },
-    "14380": {
+    "2203.0": {
         "Definition 1": {
             "label": "no",
             "text": []
@@ -317,7 +407,7 @@
             "text": []
         }
     },
-    "14435": {
+    "3925.0": {
         "Definition 1": {
             "label": "no",
             "text": []
@@ -335,7 +425,7 @@
             "text": []
         }
     },
-    "1731": {
+    "45066.0": {
         "Definition 1": {
             "label": "yes",
             "text": [
@@ -361,75 +451,7 @@
             ]
         }
     },
-    "17455": {
-        "Definition 1": {
-            "label": "yes",
-            "text": [
-                "[exact extracted phrases for nighttime sleep difficulty OR \"unknown\"]"
-            ]
-        },
-        "Definition 2": {
-            "label": "yes",
-            "text": [
-                "[exact extracted phrases for daytime impairment OR \"unknown\"]\n---\n\n### \u2705 Response:\nSleep Difficulty Phrases: \"He awoke on the day of admission, and was not able to move his legs at all.\" \"He had breakthrough pain in his lower back and exacerbation of this allodynia in his feet and legs.\" \"He was tearful with feelings of hopelessness, very upset about his condition.\""
-            ]
-        },
-        "Rule B": {
-            "label": "yes",
-            "text": [
-                "Zolpidem, Ambien"
-            ]
-        },
-        "Rule C": {
-            "label": "yes",
-            "text": [
-                "Alprazolam, Gabapentin, Lorazepam, Quetiapine, Seroquel, Neurontin"
-            ]
-        }
-    },
-    "2203": {
-        "Definition 1": {
-            "label": "no",
-            "text": []
-        },
-        "Definition 2": {
-            "label": "no",
-            "text": []
-        },
-        "Rule B": {
-            "label": "no",
-            "text": []
-        },
-        "Rule C": {
-            "label": "no",
-            "text": []
-        }
-    },
-    "3925": {
-        "Definition 1": {
-            "label": "yes",
-            "text": [
-                "\"nighttime sleep difficulty\" \n\"trouble sleeping\"\n\"difficulty sleeping\"\n\"insomnia\"\n\"unable to sleep\"\n\"nighttime sleep disturbance\"\n\"facial swelling\"\n\"increased right facial swelling\"\n\"facial erythema\"\n\"substernal chest pain\"\n\"chest pain\"\n\"dizziness\"\n\"fatigue\"\n\"low energy\"\n\"irritability\"\n\"mood swings\"\n\"difficulty concentrating\"\n\"trouble focusing\"\n\"headaches\"\n\"visual disturbances\"\n\"vision problems\"\n\"dizziness\"\n\"nausea\"\n\"constipation\""
-            ]
-        },
-        "Definition 2": {
-            "label": "yes",
-            "text": [
-                "\"daytime impairment\"\n\"daytime fatigue\"\n\"daytime sleepiness\"\n\"daytime difficulty concentrating\"\n\"daytime mood swings\"\n\"daytime irritability\"\n\"daytime headaches\"\n\"daytime nausea\"\n\"daytime dizziness\"\n\"daytime low energy\"\n\"daytime constipation\""
-            ]
-        },
-        "Rule B": {
-            "label": "no",
-            "text": []
-        },
-        "Rule C": {
-            "label": "yes",
-            "text": [
-                "Clonazepam, Diphenhydramine, Gabapentin, Lorazepam, Ativan, Clonazapam"
-            ]
-        }
-    },
-    "45066": {
+    "nan": {
         "Definition 1": {
             "label": "no",
             "text": []
