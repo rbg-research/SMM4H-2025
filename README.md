@@ -27,6 +27,8 @@ python text_mimic_notes.py --note_ids_path [path_to_note_ids_txt] --mimic_path [
 ```
 
 
-Notebook Description | Filename | Link
-Data preprocessing and collation | data_preprocessing.ipynb | Open
-Fine-tuning insomnia classifier | insomnia_classifier.ipynb | Open
+| Notebook Description              | Filename                    | Link  |
+|----------------------------------|-----------------------------|-------|
+| Data preprocessing and collation | data_preprocessing.ipynb    | [Open](notebooks/data_preprocessing.ipynb) |
+| Fine-tuning insomnia classifier  | insomnia_classifier.ipynb   | [Open](notebooks/insomnia_classifier.ipynb) |
+
