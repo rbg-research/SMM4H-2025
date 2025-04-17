@@ -29,6 +29,6 @@ python text_mimic_notes.py --note_ids_path [path_to_note_ids_txt] --mimic_path [
 
 | S.No | Filename                         | Notebook Description                        | Link                                        |
 |------|----------------------------------|---------------------------------------------|---------------------------------------------|
-|   1  | Validation.ipynb                 | To run model with the validation dataset    | [Open](notebooks/data_preprocessing.ipynb)  |
-|   2  | Testing.ipynb                    | To run the model with test dataset          | [Open](notebooks/insomnia_classifier.ipynb) |
+|   1  | validation.ipynb                 | To run model with the validation dataset    | [Open](notebooks/validation.ipynb)  |
+|   2  | testing.ipynb                    | To run the model with test dataset          | [Open](notebooks/testing.ipynb) |
 
