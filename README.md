@@ -31,7 +31,7 @@ python text_mimic_notes.py --note_ids_path [path_to_note_ids_txt] --mimic_path [
 ```
 
 
-## 3. Note Books
+## 3. Notebooks
 
 | S.No | Filename                         | Notebook Description                        | Link                                        |
 |------|----------------------------------|---------------------------------------------|---------------------------------------------|
