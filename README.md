@@ -36,5 +36,6 @@ python text_mimic_notes.py --note_ids_path [path_to_note_ids_txt] --mimic_path [
 | S.No | Filename                         | Notebook Description                        | Link                                        |
 |------|----------------------------------|---------------------------------------------|---------------------------------------------|
 |   1  | validation.ipynb                 | To run model with the validation dataset    | [Open](notebooks/validation.ipynb)  |
-|   2  | testing.ipynb                    | To run the model with test dataset          | [Open](notebooks/testing.ipynb) |
+|   2  | testing.ipynb                    | To run the model with test dataset          | [Open](notebooks/testing.ipynb)     |
+|   2  | Benchmark.ipynb                  | To benchmark the models on domain specific data| [Open](notebooks/Benchmark.ipynb)   |
 
